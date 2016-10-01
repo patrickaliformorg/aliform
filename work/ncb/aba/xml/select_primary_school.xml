@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<dialogSelectXML>
+	<title>Primary School</title>
+	<intro>Click on one of the dialogues below to find out more about bullying issues in the primary school</intro>
+	<choices>
+		<choice title="Head's Office" dialog="primary_heads_office">Catherine Hopward,Mrs Lloyd</choice>
+		<choice title="Staff Room" dialog="primary_staff_room">Keith Hastings,Niloufar Begum,Mrs Lloyd</choice>
+		<choice title="Playground" dialog="primary_playground">Niloufar Begum,Luke Jones,Rachel Jones</choice>
+		<choice title="Assembly" dialog="primary_assembly">Ahmed Rahman</choice>
+	</choices>
+</dialogSelectXML>

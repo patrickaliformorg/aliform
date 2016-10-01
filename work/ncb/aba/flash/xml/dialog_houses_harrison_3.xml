@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<dialogXML>
+	<title>A couple more days later...</title>
+	<characters>
+		<char>Kim Harrison</char>
+		<char>Sarah Harrison</char>
+	</characters>
+	<dialog>
+		<line head='1' character='Mum'>Sarah, your phone keeps ringing, do you want it in the bathroom?</line>
+		<line head='2' character='Sarah'>Er, no, it's okay Mum.</line>
+		<line head='1' character='Mum'>Well I'm here now. Wait a minute, this isn't your phone.</line>
+		<line head='2' character='Sarah'>Yes it is.</line>
+		<line head='1' character='Mum'>I should know, I bought your phone for you only a month ago, I didn't get you a WAP phone with a camera, these cost a fortune. Where did you get it?</line>
+		<line head='2' character='Sarah'>I swapped it.</line>
+		<line head='1' character='Mum'>But it's so much more expensive than yours, Sarah.</line>
+		<line head='2' character='Sarah'>Yeah well, that new girl Jackie wants to get in with everyone, so she offered, she didn't mind, honestly. She'll get another one.</line>
+		<line head='1' character='Mum'>I've had enough of this. Get out of that bath now and come downstairs. I want to talk about this once and for all.</line>
+		<line head='0'>[five minutes later]</line>
+		<line head='1' character='Mum'>So what's going on Sarah?</line>
+		<line head='2' character='Sarah'>Nothing's going on Mum. I told you, I swapped the phone with Jackie.</line>
+		<line head='1' character='Mum'>There is no new girl in your class called Jackie, Sarah. I phoned Rachel's mum because I had a suspicion the phone was hers, just like the t-shirt. You got the phone from Rachel. The CD was hers as well, wasn't it?</line>
+		<line head='2' character='Sarah'>I just borrowed it, I told you.</line>
+		<line head='1' character='Mum'>You told me you borrowed it from the non-existent Jackie, you told me the t-shirt was Justine's, you told me the phone was swapped. Why should I believe anything you say about all this? Whose were all those pens?</line>
+		<line head='2' character='Sarah'>I gave them back.</line>
+		<line head='1' character='Mum'>So you say. Look Sarah, you've either been stealing these things or you've been forcing people to give them to you. Is that why you and Rachel aren't friends any more? Come on, no more lies, it will only make things worse. What have you been doing?</line>
+	</dialog>
+	<furtherInfo>info_houses_harrison</furtherInfo>
+</dialogXML>

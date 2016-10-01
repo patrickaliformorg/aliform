@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<dialogXML>
+	<title>Should you just hit back?</title>
+	<characters>
+		<char>Harriet Johnson</char>
+		<char>Mr Johnson</char>
+		<char>Katie Johnson</char>
+		<char>Adam Johnson</char>
+		<char>Mrs Johnson</char>
+	</characters>
+	<dialog>
+		<line head='1' character='Harriet Johnson'>More roast potatoes Katie?</line>
+		<line head='2' character='Mr Johnson'>Katie don't ignore your mother, it's me you're angry at.</line>
+		<line head='1' character='Harriet Johnson'>Katie you can't go on like this forever. I'm not having you sitting here ignoring everyone.</line>
+		<line head='3' character='Katie'>I can't believe what he did. Going up to the school like that when it's none of his business.</line>
+		<line head='2' character='Mr Johnson'>Don't talk about me as if I'm not here. I didn't do it to embarrass you; that poor kid was having a hard time. Do you think that's okay then?</line>
+		<line head='3' character='Katie'>She probably brought it on herself anyway.</line>
+		<line head='4' character='Adam'>If it's who I think it is she was always a bit of a weirdo.</line>
+		<line head='1' character='Harriet Johnson'>So if you think someone's a bit weird it's okay to make their life a misery? I can't believe you two.</line>
+		<line head='3' character='Katie'>Don't take it so seriously Mum. No one really gets hurt, it's just kids having a laugh.</line>
+		<line head='5' character='Gran'>I read in the paper about a poor little girl who took an overdose because she was being bullied.</line>
+		<line head='3' character='Katie'>Oh Gran, there must have been something wrong with her anyway. No one does that just because of a bit of bullying. I get called names sometimes and I don't cry about it.</line>
+		<line head='1' character='Harriet Johnson'>So what would happen if some bullies really got to you?q</line>
+		<line head='3' character='Katie'>I'd just ignore it Mum; it's the only thing to do.</line>
+		<line head='1' character='Harriet Johnson'>And if that didn't work? If the bully kept on at you? And don't tell me that wouldn't happen cos you know it does.</line>
+		<line head='3' character='Katie'>I'd hit back. They've got to know you're not an easy target.</line>
+		<line head='4' character='Adam'>And if that didn't work she'd ask her big strong brother to sort them out, wouldn't you short arse?</line>
+		<line head='3' character='Katie'>See! He's just bullied me. Boo hoo.</line>
+		<line head='2' character='Mr Johnson'>Ok, look. You know that big bloke over the road that used to always block our driveway with his car?</line>
+		<line head='4' character='Adam'>Yeah.</line>
+		<line head='2' character='Mr Johnson'>How did I get him to stop? He's bigger than me so I couldn't hit him; I haven't got six friends who would come round with iron bars to sort him out. If I deliberately scratched his car he'd probably set ours on fire.</line>
+		<line head='4' character='Adam'>So what's your point Dad?</line>
+		<line head='2' character='Mr Johnson'>Well what did I do? What did I do? Don't pretend you don't remember. You like having a car handy to take you places. What did I do?</line>
+		<line head='3' character='Katie'>You went to the police Dad.</line>
+		<line head='2' character='Mr Johnson'>Yes. Causing an obstruction is against the law, he's a violent threatening bloke, and I don't want you to have to live in a street where the only people who get their way are the biggest thugs. I'm ashamed of you both.</line>
+</dialog>
+	<furtherInfo>info_houses_johnson</furtherInfo>
+	<nextDialog>houses_johnson_2</nextDialog>
+</dialogXML>

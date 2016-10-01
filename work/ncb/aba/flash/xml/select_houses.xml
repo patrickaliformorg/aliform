@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<dialogSelectXML>
+	<title>Houses</title>
+	<intro>Click on one of the dialogues below to find out what's going on in the residents' houses</intro>
+	<choices>
+		<choice title="The Whyte House" dialog="houses_whyte">Justine Whyte,Will Whyte,Tony Whyte</choice>
+		<choice title="The Johnson House" dialog="houses_johnson">Mr Johnson,Harriet Johnson,Katie Johnson,Adam Johnson,Mrs Johnson</choice>
+		<choice title="The Green House" dialog="houses_green">Jason Green,Steph Green,Thomas Hannah</choice>
+		<choice title="The Harrison House" dialog="houses_harrison">Kim Harrison,Sarah Harrison</choice>
+	</choices>
+</dialogSelectXML>

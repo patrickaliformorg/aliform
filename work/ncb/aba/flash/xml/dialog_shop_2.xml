@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<dialogXML>
+	<title>Concerned citizen intervenes</title>
+	<characters>
+		<char>Mr Johnson</char>
+		<char>Janice Lockley</char>
+	</characters>
+	<dialog>
+		<line head='1' character='Mr Johnson'>Afternoon Janice, what can I get you?</line>
+		<line head='2' character='Governor (Janice Lockley)'>Just the evening paper thanks, oh, and a pint of milk.</line>
+		<line head='1' character='Mr Johnson'>You're a governor up at that school now aren't you?</line>
+		<line head='2' character='Governor'>Yes, for my sins</line>
+		<line head='1' character='Mr Johnson'>Have you got five minutes? I wanted to ask you something...</line>
+		<line head='2' character='Governor'>Yes it's fine, I'm not in a hurry.</line>
+		<line head='1' character='Mr Johnson'>Well, I hope I'm not speaking out of place and I don't really know if you are the person to talk to but. Well, let me get to the point. Earlier on this afternoon two girls came into the shop from your school and, well, to put it simply one girl was making the other girl buy her stuff. They tried to buy cigarettes at first but I wasn't having any of that, they didn't look sixteen to me, so then they just brought some sweets. But the thing is Janice the girl who was spending the money looked scared stiff.</line>
+		<line head='2' character='Governor'>Are you sure they were from Greenham Secondary?</line>
+		<line head='1' character='Mr Johnson'>Yes. They had the same uniform on that our Katie wears.</line>
+		<line head='2' character='Governor'>Did you get their names?</line>
+		<line head='1' character='Mr Johnson'>I didn't get the stroppy one but she called the blond one Emma. I reckon the scared kid was Jason Green's daughter. So what do you think? Can the school do anything about this even though it didn't happen at school?</line>
+		<line head='2' character='Governor'>Well, for a start I think it's pretty unlikely that if bullying were going on it would stop the minute they got into school, but by law we aren't actually responsible for what happens out of school.</line>
+		<line head='1' character='Mr Johnson'>Not responsible? You mean the teachers don't want the hassle!</line>
+		<line head='2' character='Governor'>No, that's really not true. The school would like to be able to take action because, as I say, bullying outside school always means trouble inside the school as well. But if we did, any parent has the law on their side because we don't have the power.</line>
+		<line head='1' character='Mr Johnson'>What do you think? We tell the police? I mean, extortion is a crime.</line>
+		<line head='2' character='Governor'>Well, we can't really do that without Emma coming forward. And I don't really know what proof we have that would enable us to go marching up to her house saying she's being bullied. It really is a hard one. Emma probably wouldn't want us to do anything or else she would have told the school by now. I'll check the anti-bullying policy, there must be something we can do.</line>
+		<line head='1' character='Mr Johnson'>But Janice, that's a bit naive. Maybe she's just scared.</line>
+		<line head='2' character='Governor'>These things are difficult, but sometimes there just isn't an answer. Just let me think about it, ok?</line>
+	</dialog>
+	<furtherInfo>info_shop</furtherInfo>
+	<nextDialog>shop_3</nextDialog>
+</dialogXML>

@@ -1,0 +1,84 @@
+<?xml version="1.0" ?><points>
+<towns>
+<town name="Hythe" lat="51.07" long="1.07" icon="minor" />
+<town name="Folkestone" lat="51.11" long="1.15" icon="minor" />
+<town name="Dover" lat="51.17" long="1.28" icon="minor" />
+<town name="Deal" lat="51.21" long="1.38" icon="minor" />
+<town name="Sandwich" lat="51.26" long="1.33" icon="minor" />
+<town name="Caterham" lat="51.28" long="-0.08" icon="minor" />
+<town name="Warlingham" lat="51.3" long="-0.05" icon="minor" />
+<town name="Coulsdon" lat="51.31" long="-0.13" icon="minor" />
+<town name="Purley" lat="51.33" long="-0.11" icon="minor" />
+<town name="Ramsgate" lat="51.33" long="1.41" icon="minor" />
+<town name="South Croydon" lat="51.35" long="-0.08" icon="minor" />
+<town name="Whitstable" lat="51.35" long="1.03" icon="minor" />
+<town name="Herne Bay" lat="51.36" long="1.13" icon="minor" />
+<town name="Broadstairs" lat="51.36" long="1.43" icon="minor" />
+<town name="Birchington" lat="51.37" long="1.3" icon="minor" />
+<town name="Westgate" lat="51.38" long="1.34" icon="minor" />
+<town name="Margate" lat="51.38" long="1.39" icon="minor" />
+<town name="Thornton Heath" lat="51.39" long="-0.1" icon="minor" />
+<town name="Mitcham" lat="51.4" long="-0.15" icon="minor" />
+<town name="Hatfield" lat="51.74" long="-0.19" icon="minor" />
+<town name="Harpenden" lat="51.81" long="-0.35" icon="minor" />
+<town name="Shipston-on-Stour" lat="52.06" long="-1.62" icon="minor" />
+<town name="Stratford-upon-Avon" lat="52.18" long="-1.71" icon="minor" />
+<town name="Alcester" lat="52.21" long="-1.86" icon="minor" />
+<town name="Southam" lat="52.23" long="-1.38" icon="minor" />
+<town name="Redditch" lat="52.25" long="-1.96" icon="minor" />
+<town name="Leamington Spa" lat="52.27" long="-1.52" icon="minor" />
+<town name="Studley" lat="52.27" long="-1.89" icon="minor" />
+<town name="Warwick" lat="52.28" long="-1.57" icon="minor" />
+<town name="Bromsgrove" lat="52.32" long="-2.04" icon="minor" />
+<town name="Kenilworth" lat="52.35" long="-1.54" icon="minor" />
+<town name="Rugby" lat="52.36" long="-1.27" icon="minor" />
+<town name="Solihull" lat="52.4" long="-1.82" icon="minor" />
+<town name="Halesowen" lat="52.45" long="-2.03" icon="minor" />
+<town name="Bedworth" lat="52.47" long="-1.47" icon="minor" />
+<town name="Oldbury" lat="52.47" long="-2" icon="minor" />
+<town name="Cradley Heath" lat="52.47" long="-2.06" icon="minor" />
+<town name="Rowley Regis" lat="52.48" long="-2.04" icon="minor" />
+<town name="Smethwick" lat="52.49" long="-1.96" icon="minor" />
+<town name="Nuneaton" lat="52.52" long="-1.5" icon="minor" />
+<town name="West Bromwich" lat="52.52" long="-2" icon="minor" />
+<town name="Sutton Coldfield" lat="52.55" long="-1.82" icon="minor" />
+<town name="Atherstone" lat="52.58" long="-1.55" icon="minor" />
+<town name="Tamworth" lat="52.61" long="-1.66" icon="minor" />
+<town name="Peterculter" lat="57.1" long="-2.27" icon="minor" />
+<town name="Keith" lat="57.52" long="-2.99" icon="minor" />
+</towns>
+<users>
+<user lat="51.3625285843478" long="-0.086532597056518" un="No username" signup="26 September 2006" custom="%3Cfont+color%3D%22%23ffffff%22%3E%3Cb%3ECarbon+saved%3A+0%2E0+kg%3Cb%3E%3C%2Ffont%3E" icon="participant" />
+<user lat="51.3636144318285" long="-0.097980830576" un="No username" signup="26 September 2006" custom="%3Cfont+color%3D%22%23ffffff%22%3E%3Cb%3ECarbon+saved%3A+0%2E0+kg%3Cb%3E%3C%2Ffont%3E" icon="participant" />
+<user lat="51.3636144318285" long="-0.097980830576" un="No username" signup="26 September 2006" custom="Act+now%3A+%3Cb%3Epledged%3C%2Fb%3E%3Cbr%3E%3Cfont+color%3D%22%23ffffff%22%3E%3Cb%3ECarbon+saved%3A+0%2E0+kg%3Cb%3E%3C%2Ffont%3E" icon="participant" />
+<user lat="51.3636144318285" long="-0.097980830576" un="No username" signup="26 September 2006" custom="%3Cfont+color%3D%22%23ffffff%22%3E%3Cb%3ECarbon+saved%3A+0%2E0+kg%3Cb%3E%3C%2Ffont%3E" icon="participant" />
+<user lat="51.3636144318285" long="-0.097980830576" un="No username" signup="29 September 2006" custom="%3Cfont+color%3D%22%23ffffff%22%3E%3Cb%3ECarbon+saved%3A+0%2E0+kg%3Cb%3E%3C%2Ffont%3E" icon="participant" />
+<user lat="51.3345962696864" long="-0.083388682078668" un="No username" signup="29 September 2006" custom="Bend+ears+in+London%3A+%3Cb%3Epledged%3C%2Fb%3E%3Cbr%3ELove+off%3A+%3Cb%3Ecompleted%3C%2Fb%3E%3Cbr%3EAct+now%3A+%3Cb%3Ecompleted%3C%2Fb%3E%3Cbr%3E%3Cfont+color%3D%22%23ffffff%22%3E%3Cb%3ECarbon+saved%3A+522%2E1+kg%3Cb%3E%3C%2Ffont%3E" icon="participant" />
+<user lat="51.3589569460351" long="-0.08811800862078" un="No username" signup="29 September 2006" custom="Bend+ears+in+London%3A+%3Cb%3Epledged%3C%2Fb%3E%3Cbr%3ELove+off%3A+%3Cb%3Epledged%3C%2Fb%3E%3Cbr%3E%3Cfont+color%3D%22%23ffffff%22%3E%3Cb%3ECarbon+saved%3A+0%2E0+kg%3Cb%3E%3C%2Ffont%3E" icon="participant" />
+<user lat="51.3636144318285" long="-0.097980830576" un="No username" signup="03 October 2006" custom="Bend+ears+in+London%3A+%3Cb%3Epledged%3C%2Fb%3E%3Cbr%3ELove+off%3A+%3Cb%3Epledged%3C%2Fb%3E%3Cbr%3EAct+now%3A+%3Cb%3Epledged%3C%2Fb%3E%3Cbr%3E%3Cfont+color%3D%22%23ffffff%22%3E%3Cb%3ECarbon+saved%3A+0%2E0+kg%3Cb%3E%3C%2Ffont%3E" icon="participant" />
+<user lat="51.3590505402518" long="-0.093860289523036" un="Dux lorem ipsum dolor etc etc" signup="03 October 2006" custom="Bend+ears+in+London%3A+%3Cb%3Epledged%3C%2Fb%3E%3Cbr%3ELove+off%3A+%3Cb%3Epledged%3C%2Fb%3E%3Cbr%3EAct+now%3A+%3Cb%3Ecompleted%3C%2Fb%3E%3Cbr%3EEmail+Tony%3A+%3Cb%3Ecompleted%3C%2Fb%3E%3Cbr%3E%3Cfont+color%3D%22%23ffffff%22%3E%3Cb%3ECarbon+saved%3A+2%2E6+kg%3Cb%3E%3C%2Ffont%3E" icon="participant" />
+<user lat="51.3636144318285" long="-0.097980830576" un="No username" signup="04 October 2006" custom="%3Cfont+color%3D%22%23ffffff%22%3E%3Cb%3ECarbon+saved%3A+0%2E0+kg%3Cb%3E%3C%2Ffont%3E" icon="participant" />
+<user lat="51.3608714445511" long="-0.095221282135357" un="No username" signup="04 October 2006" custom="Bend+ears+in+London%3A+%3Cb%3Epledged%3C%2Fb%3E%3Cbr%3ELove+off%3A+%3Cb%3Ecompleted%3C%2Fb%3E%3Cbr%3EAct+now%3A+%3Cb%3Epledged%3C%2Fb%3E%3Cbr%3EEmail+Tony%3A+%3Cb%3Ecompleted%3C%2Fb%3E%3Cbr%3E%3Cfont+color%3D%22%23ffffff%22%3E%3Cb%3ECarbon+saved%3A+519%2E5+kg%3Cb%3E%3C%2Ffont%3E" icon="participant" />
+<user lat="51.3636144318285" long="-0.097980830576" un="No username" signup="04 October 2006" custom="Love+off%3A+%3Cb%3Epledged%3C%2Fb%3E%3Cbr%3EAct+now%3A+%3Cb%3Ecompleted%3C%2Fb%3E%3Cbr%3E%3Cfont+color%3D%22%23ffffff%22%3E%3Cb%3ECarbon+saved%3A+2%2E6+kg%3Cb%3E%3C%2Ffont%3E" icon="participant" />
+<user lat="51.3636144318285" long="-0.097980830576" un="No username" signup="04 October 2006" custom="%3Cfont+color%3D%22%23ffffff%22%3E%3Cb%3ECarbon+saved%3A+0%2E0+kg%3Cb%3E%3C%2Ffont%3E" icon="participant" />
+<user lat="51.3636144318285" long="-0.097980830576" un="No username" signup="04 October 2006" custom="Act+now%3A+%3Cb%3Epledged%3C%2Fb%3E%3Cbr%3E%3Cfont+color%3D%22%23ffffff%22%3E%3Cb%3ECarbon+saved%3A+0%2E0+kg%3Cb%3E%3C%2Ffont%3E" icon="participant" />
+<user lat="51.3636144318285" long="-0.097980830576" un="No username" signup="04 October 2006" custom="Love+off%3A+%3Cb%3Epledged%3C%2Fb%3E%3Cbr%3E%3Cfont+color%3D%22%23ffffff%22%3E%3Cb%3ECarbon+saved%3A+0%2E0+kg%3Cb%3E%3C%2Ffont%3E" icon="participant" />
+<user lat="51.3395394535682" long="-0.055899638635732" un="No username" signup="06 October 2006" custom="Act+now%3A+%3Cb%3Epledged%3C%2Fb%3E%3Cbr%3E%3Cfont+color%3D%22%23ffffff%22%3E%3Cb%3ECarbon+saved%3A+0%2E0+kg%3Cb%3E%3C%2Ffont%3E" icon="participant" />
+<user lat="51.3796989171899" long="-0.091565261004099" un="No username" signup="06 October 2006" custom="%3Cfont+color%3D%22%23ffffff%22%3E%3Cb%3ECarbon+saved%3A+0%2E0+kg%3Cb%3E%3C%2Ffont%3E" icon="participant" />
+<user lat="51.3634508004127" long="-0.08793083639844" un="No username" signup="12 October 2006" custom="%3Cfont+color%3D%22%23ffffff%22%3E%3Cb%3ECarbon+saved%3A+0%2E0+kg%3Cb%3E%3C%2Ffont%3E" icon="participant" />
+<user lat="51.3636144318285" long="-0.097980830576" un="No username" signup="12 October 2006" custom="%3Cfont+color%3D%22%23ffffff%22%3E%3Cb%3ECarbon+saved%3A+0%2E0+kg%3Cb%3E%3C%2Ffont%3E" icon="participant" />
+<user lat="51.3636144318285" long="-0.097980830576" un="No username" signup="13 October 2006" custom="%3Cfont+color%3D%22%23ffffff%22%3E%3Cb%3ECarbon+saved%3A+0%2E0+kg%3Cb%3E%3C%2Ffont%3E" icon="participant" />
+<user lat="51.3608714445511" long="-0.095221282135357" un="mrayner" signup="17 October 2006" custom="Bend+ears+in+London%3A+%3Cb%3Epledged%3C%2Fb%3E%3Cbr%3ELove+off%3A+%3Cb%3Ecompleted%3C%2Fb%3E%3Cbr%3EAct+now%3A+%3Cb%3Ecompleted%3C%2Fb%3E%3Cbr%3EEmail+Tony%3A+%3Cb%3Ecompleted%3C%2Fb%3E%3Cbr%3E%3Cfont+color%3D%22%23ffffff%22%3E%3Cb%3ECarbon+saved%3A+522%2E1+kg%3Cb%3E%3C%2Ffont%3E" icon="participant" />
+<user lat="51.3572529914147" long="-0.093934920376809" un="No username" signup="18 October 2006" custom="Bend+ears+in+London%3A+%3Cb%3Epledged%3C%2Fb%3E%3Cbr%3E%3Cfont+color%3D%22%23ffffff%22%3E%3Cb%3ECarbon+saved%3A+0%2E0+kg%3Cb%3E%3C%2Ffont%3E" icon="participant" />
+<user lat="51.3660767128819" long="-0.083511145831763" un="No username" signup="18 October 2006" custom="%3Cfont+color%3D%22%23ffffff%22%3E%3Cb%3ECarbon+saved%3A+0%2E0+kg%3Cb%3E%3C%2Ffont%3E" icon="participant" />
+<user lat="51.2929935628456" long="-0.069342617338229" un="No username" signup="19 October 2006" custom="Love+off%3A+%3Cb%3Ecompleted%3C%2Fb%3E%3Cbr%3EAct+now%3A+%3Cb%3Epledged%3C%2Fb%3E%3Cbr%3E%3Cfont+color%3D%22%23ffffff%22%3E%3Cb%3ECarbon+saved%3A+519%2E5+kg%3Cb%3E%3C%2Ffont%3E" icon="participant" />
+<user lat="51.3184442990012" long="-0.141472936438515" un="No username" signup="19 October 2006" custom="%3Cfont+color%3D%22%23ffffff%22%3E%3Cb%3ECarbon+saved%3A+0%2E0+kg%3Cb%3E%3C%2Ffont%3E" icon="participant" />
+<user lat="51.3078679837997" long="-0.044324124463665" un="No username" signup="20 October 2006" custom="Love+off%3A+%3Cb%3Ecompleted%3C%2Fb%3E%3Cbr%3E%3Cfont+color%3D%22%23ffffff%22%3E%3Cb%3ECarbon+saved%3A+519%2E5+kg%3Cb%3E%3C%2Ffont%3E" icon="participant" />
+<user lat="51.2905357418799" long="-0.139731400079127" un="F " signup="23 October 2006" custom="Love+off%3A+%3Cb%3Ecompleted%3C%2Fb%3E%3Cbr%3EAct+now%3A+%3Cb%3Epledged%3C%2Fb%3E%3Cbr%3E%3Cfont+color%3D%22%23ffffff%22%3E%3Cb%3ECarbon+saved%3A+519%2E5+kg%3Cb%3E%3C%2Ffont%3E" icon="participant" />
+<user lat="51.3441521475286" long="-0.062884833551381" un="No username" signup="24 October 2006" custom="Love+off%3A+%3Cb%3Epledged%3C%2Fb%3E%3Cbr%3E%3Cfont+color%3D%22%23ffffff%22%3E%3Cb%3ECarbon+saved%3A+0%2E0+kg%3Cb%3E%3C%2Ffont%3E" icon="participant" />
+<user lat="51.3681316177146" long="-0.099230454112662" un="No username" signup="24 October 2006" custom="%3Cfont+color%3D%22%23ffffff%22%3E%3Cb%3ECarbon+saved%3A+0%2E0+kg%3Cb%3E%3C%2Ffont%3E" icon="participant" />
+<user lat="51.3441521475286" long="-0.062884833551381" un="No username" signup="25 October 2006" custom="Love+off%3A+%3Cb%3Epledged%3C%2Fb%3E%3Cbr%3EAct+now%3A+%3Cb%3Epledged%3C%2Fb%3E%3Cbr%3EEmail+Tony%3A+%3Cb%3Ecompleted%3C%2Fb%3E%3Cbr%3E%3Cfont+color%3D%22%23ffffff%22%3E%3Cb%3ECarbon+saved%3A+0%2E0+kg%3Cb%3E%3C%2Ffont%3E" icon="participant" />
+<user lat="51.3314506321345" long="-0.056241862615034" un="No username" signup="26 October 2006" custom="Love+off%3A+%3Cb%3Ecompleted%3C%2Fb%3E%3Cbr%3E%3Cfont+color%3D%22%23ffffff%22%3E%3Cb%3ECarbon+saved%3A+519%2E5+kg%3Cb%3E%3C%2Ffont%3E" icon="participant" />
+<user lat="51.3251063086867" long="-0.10818761400672" un="Sue Kinoshita dolor qui solum est quisque" signup="26 October 2006" custom="Love+off%3A+%3Cb%3Ecompleted%3C%2Fb%3E%3Cbr%3E%3Cfont+color%3D%22%23ffffff%22%3E%3Cb%3ECarbon+saved%3A+519%2E5+kg%3Cb%3E%3C%2Ffont%3E" icon="participant" />
+<user lat="51.3608714445511" long="-0.095221282135357" un="No username" signup="26 October 2006" custom="Bend+ears+in+London%3A+%3Cb%3Epledged%3C%2Fb%3E%3Cbr%3ELove+off%3A+%3Cb%3Epledged%3C%2Fb%3E%3Cbr%3EAct+now%3A+%3Cb%3Epledged%3C%2Fb%3E%3Cbr%3EEmail+Tony%3A+%3Cb%3Ecompleted%3C%2Fb%3E%3Cbr%3E%3Cfont+color%3D%22%23ffffff%22%3E%3Cb%3ECarbon+saved%3A+0%2E0+kg%3Cb%3E%3C%2Ffont%3E" icon="participant" />
+<user lat="51.3229383224135" long="-0.141291248924464" un="No username" signup="29 October 2006" custom="Bend+ears+in+London%3A+%3Cb%3Epledged%3C%2Fb%3E%3Cbr%3E%3Cfont+color%3D%22%23ffffff%22%3E%3Cb%3ECarbon+saved%3A+0%2E0+kg%3Cb%3E%3C%2Ffont%3E" icon="participant" /></users></points>

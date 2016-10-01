@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<dialogXML>
+	<title>Who can you talk to?</title>
+	<characters>
+		<char>Niloufar Begum</char>
+		<char>Rachel Jones</char>
+		<char>Luke Jones</char>
+	</characters>
+	<dialog>
+		<line head='1' character='Supervisor (Niloufar Begum)'>Hello you two. You're not often together at playtime.</line>
+		<line head='3' character='Luke'>Miss, twins spend so much time together, you know....</line>
+		<line head='2' character='Rachel'>What he means is, that he needs to get away sometimes so he realises what a fantastic sister I am.</line>
+		<line head='3' character='Luke'>Not.</line>
+		<line head='1' character='Mrs Begum'>I saw you both talking to Steve over there. He looked really fed up.</line>
+		<line head='3' character='Luke'>Promise you won't tell? </line>
+		<line head='1' character='Mrs Begum'>Of course not. I promise I will tell, if I think I need to.</line>
+		<line head='2' character='Rachel'>Well, we're not saying then.</line>
+		<line head='1' character='Mrs Begum'>Come on Rachel, you know you want to.</line>
+		<line head='3' character='Luke'>Yeah but that's the trouble with adults. You want to just talk but you don't know if it's going to get all out of hand. Specially teachers.</line>
+		<line head='1' character='Mrs Begum'>So are there any adults it's okay to talk to?</line>
+		<line head='2' character='Rachel'>Well I'm only kidding really, cos we will tell you won't we Luke? It's like, well, it's good to be able to say things without knowing for sure that it's going to get all official.</line>
+		<line head='1' character='Mrs Begum'>But sometimes it needs to. That's why teachers get all official, it's their job to look after you, and it's mine too.</line>
+		<line head='2' character='Rachel'>Yeah, we know, but sometimes it's nice just to have an adult listen and not go rushing off trying to sort things out, d'you know what I mean?</line>
+		<line head='3' character='Luke'>So we can think about it and decide what we want to do.</line>
+		<line head='2' character='Rachel'>Our cousin says the nurse at his school is like that.</line>
+		<line head='3' character='Luke'>And you are too Miss, a bit. No offence, but cos you're not like, y'know, a proper teacher.</line>
+		<line head='1' character='Mrs Begum'>So what's up with Steve then? And I promise I won't do anything without telling you, but I might not say what I'm going to do. Okay?</line>
+		<line head='3' character='Luke'>Okay. You know we got called lots of names last term cos people said we were fat and everything?</line>
+		<line head='2' character='Rachel'>Yes, and then we got well annoyed when the government started saying fat people are a real problem. That made it worse.</line>
+		<line head='1' character='Mrs Begum'>Well you aren't overweight, I think we sorted that out didn't we, as well as something about name-calling. Steve's not either.</line>
+		<line head='3' character='Luke'>But he does have red hair, freckles, and thick glasses.</line>
+		<line head='1' character='Mrs Begum'>Right. So is he getting called names because of that?</line>
+		<line head='2' character='Rachel'>Yeah, and it's horrible, he doesn't stand up for himself at all though you can see in his face he hates it. So she just does it more.</line>
+		<line head='1' character='Mrs Begum'>Who's she?</line>
+		<line head='3' character='Luke'>A girl on the bus we go home on sometimes. She's from the big school. Justine and Nadine sit with him when they're on the bus but she gives them a mouthful too.</line>
+	</dialog>
+	<furtherInfo>info_primary_playground</furtherInfo>
+	<nextDialog>primary_playground_2</nextDialog>
+</dialogXML>

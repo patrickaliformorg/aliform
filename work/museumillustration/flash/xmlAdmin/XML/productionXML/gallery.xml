@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<galleryXML>
+	<floors>
+		<floor name="ground">
+			<sections>
+				<section>Welcome</section>
+				<section>Quentin Blake Archive: Ground Floor, Wall 1</section>
+				<section>Quentin Blake Archive: Ground Floor, Wall 2</section>
+			</sections>
+		</floor>
+		<floor name="first">
+			<sections>
+				<section>Quentin Blake Archive: First Floor, Wall 1</section>
+				<section>Quentin Blake Archive: First Floor, Wall 2</section>
+				<section>Quentin Blake Archive: First Floor, Wall 3</section>
+				<section>Quentin Blake Archive: First Floor, Wall 4</section>
+			</sections>
+		</floor>
+		<floor name="second">
+			<sections>
+				<section>Quentin Blake Archive: Second Floor, Wall 1</section>
+				<section>Quentin Blake Archive: Second Floor, Wall 2</section>
+				<section>Quentin Blake Archive: Second Floor, Wall 3</section>
+				<section>Quentin Blake Archive: Second Floor, Wall 4</section>
+			</sections>
+		</floor>
+	</floors>
+	<artists>
+		<artist id="1" name="Quentin Blake"></artist>
+	</artists>
+</galleryXML>

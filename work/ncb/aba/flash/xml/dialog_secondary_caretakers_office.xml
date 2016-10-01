@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<dialogXML>
+	<title>Gross graffiti</title>
+	<characters>
+		<char>Liz</char>
+		<char>John</char>
+	</characters>
+	<dialog>
+		<line head='1' character='Cleaner (Liz)'>More stuff to wipe off John. You got the graffiti zapping spray?</line>
+		<line head='2' character='Caretaker (John)'>It's almost empty. We've been using a lot lately.</line>
+		<line head='1' character='Liz'>It's just some feud between some of them, it'll pass.</line>
+		<line head='2' character='John'>I don't know about a feud. It seems to me to be all aimed at one kid.</line>
+		<line head='1' character='Liz'>Yeah well, he probably deserves it. They're all as bad as each other.</line>
+		<line head='2' character='John'>Oh come on, that's like saying no-one's ever really better than anyone else. There are some good kids here. I'm not sure 'waxy' (whoever he is) deserves all this stuff they write on the walls about him.</line>
+		<line head='1' character='Liz'>You take it too seriously. All this bullying stuff, it's always happened. It's just life, kids need to learn to deal with it.</line>
+		<line head='2' character='John'>You're too hard Liz. How would you like it if it was your son?</line>
+		<line head='1' character='Liz'>Look John, my son got hassled at school just like everyone else does. I told him to stand up for himself and not to be a wimp.</line>
+		<line head='2' character='John'>So what happens to the smallest kid in the class? How's he supposed to stand up for himself?</line>
+		<line head='1' character='Liz'>Well he has to get himself some good mates doesn't he? And make sure he's not a little pain in the neck that people want to pick on.</line>
+		<line head='2' character='John'>No. The amount of graffiti about this kid, whoever he is, is out of order. He must feel terrible seeing it when he walks around the school. It's no answer for us to just keep wiping it off. The clowns that write it seem to take it as a challenge. I think I'm going to talk to the year heads about it.</line>
+		<line head='1' character='Liz'>Well you do what you like. My job's to keep the walls clean.</line>
+	</dialog>
+	<furtherInfo>info_secondary_caretakers_office</furtherInfo>
+	<nextDialog>secondary_caretakers_office_2</nextDialog>
+</dialogXML>

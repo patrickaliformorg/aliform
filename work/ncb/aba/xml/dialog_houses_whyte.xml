@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<dialogXML>
+	<title>Email bullying</title>
+	<characters>
+		<char>Justine Whyte</char>
+		<char>Tony Whyte</char>
+	</characters>
+	<dialog>
+		<line head='1' character='Justine'>Dad, why is Will so grumpy these days?</line>
+		<line head='2' character='Dad'>Are you telling tales? Are you trying to get me on your side about something?</line>
+		<line head='1' character='Justine'>Oh Dad, you're just as grumpy as him! Don't be so suspicious.</line>
+		<line head='2' character='Dad'>Oh. Have I misjudged my favourite 9 year old?</line>
+		<line head='1' character='Justine'>I'm your only 9 year old so don't try to get round me that way. No really Dad, I know he's my older brother and everything and he's supposed to hate his little sister, but he's different from how he was. He seems really, I don't know, down.</line>
+		<line head='2' character='Dad'>Well, he's a teenager.</line>
+		<line head='1' character='Justine'>Dad, I'm not a baby. I know about that hormone stuff but I think it's different. He doesn't seem to have the friends he used to have.</line>
+		<line head='2' character='Dad'>So what do you think is up? You think he's really miserable about something?</line>
+		<line head='1' character='Justine'>Well, I dunno. I think he puts on a bit of an act when you're around. Sometimes when we're doing our homework he just stares into space and looks so unhappy it's like he's about to cry.</line>
+		<line head='2' character='Dad'>Uh huh. Do you say anything to him Justine?</line>
+		<line head='1' character='Justine'>Course. I tried tickling him. Last night I put a really funny picture on his computer so would see it as soon as he opened his emails. But he just deleted it.</line>
+		<line head='2' character='Dad'>Ok, Justine. You've been a really good sister. Come and have a hug.</line>
+		<line head='1' character='Justine'>Later Dad, you've got a bit of pasta in your beard.</line>
+		<line head='2' character='Dad'>So do you have any idea what's bothering Will? Is there something you're not telling me?</line>
+		<line head='1' character='Justine'>Well...</line>
+		<line head='2' character='Dad'>Come on honey, there is something isn't there?</line>
+		<line head='1' character='Justine'>Promise you won't say anything?</line>
+		<line head='2' character='Dad'>I can't promise that can I? If I need to do something then I need to do it. If you know something I should worry about you can't expect me to do nothing.</line>
+		<line head='1' character='Justine'>When I was putting that jpeg on his computer I saw he hardly had any emails from his friends. You know how he used to send and get about a million a day? There were two new ones though. I couldn't open them cos he'd know, but they looked really nasty.</line>
+		<line head='2' character='Dad'>How do you mean nasty? How could you tell?</line>
+		<line head='1' character='Justine'>I don't like to say, Dad, but in the 'subject' bit on the screen, one said the F word, then something else, then the N word...</line>
+	</dialog>
+	<furtherInfo>info_houses_whyte</furtherInfo>
+	<nextDialog>houses_whyte_2</nextDialog>
+</dialogXML>

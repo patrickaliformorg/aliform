@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<dialogXML>
+	<title>Dad tries to help</title>
+	<characters>
+		<char>Tony Whyte</char>
+		<char>Will Whyte</char>
+	</characters>
+	<dialog>
+		<line head='2' character='Will'>Yeah well...</line>
+		<line head='1' character='Dad'>Why didn't you tell me Will?</line>
+		<line head='2' character='Will'>Dunno, I just didn't want you to see them, I couldn't read half of them myself, they were so ... well, really disgusting some of them.</line>
+		<line head='1' character='Dad'>So you wiped them?</line>
+		<line head='2' character='Will'>Yeah of course.</line>
+		<line head='1' character='Dad'>But they'll be in the wastebasket, unless you emptied that too.</line>
+		<line head='2' character='Will'>No I didn't, but I don't want you to read them, I don't want you to know what they think of me.</line>
+		<line head='1' character='Dad'>They don't think that of you Will, they're writing this garbage like playing a computer game, they're shooting and kind of seeing blood, but they don't know it's real.</line>
+		<line head='2' character='Will'>They're sick.</line>
+		<line head='1' character='Dad'>I need to see the emails Will, we can get the police involved in this kind of thing.</line>
+		<line head='2' character='Will'>The everyone will know what they've written about me. Not just me if you really want to know. It's about Mum, and Justine, and you as well.</line>
+		<line head='1' character='Dad'>So you just put up with it and tried to protect us?</line>
+		<line head='2' character='Will'>It's been doing my head in Dad. I don't want to go out, I reckon no-one likes me, what if everyone else thinks like they do?</line>
+		<line head='1' character='Dad'>It's not true Will. They've really put you down I know, but whatever they've been saying, Jason still calls round all the time, Justine thinks you're the best big brother in the world, the football team always loses if you're not playing. The goldfish think you're God.</line>
+		<line head='2' character='Will'>Yeah yeah.</line>
+		<line head='1' character='Dad'>Do you know who it is Will?</line>
+		<line head='2' character='Will'>Yes, it's a couple of lads at the youth club.</line>
+		<line head='1' character='Dad'>So that's why you've almost stopped going? Ok, you don't have to deal with this on your own now.</line>
+	</dialog>
+	<furtherInfo>info_houses_whyte</furtherInfo>
+</dialogXML>

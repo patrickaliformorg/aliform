@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<dialogXML>
+	<title>Is it safe to break friends?</title>
+	<characters>
+		<char>Catherine Hopward</char>
+		<char>Mrs Lloyd</char>
+	</characters>
+	<dialog>
+		<line head='1' character='Head (Catherine Hopward)'>You know, I used to say 'It's hard to know how many of the cases I have to deal with are just children falling out and how many are real bullying'.</line>
+		<line head='2' character='Mrs Lloyd'>So what's made you change your mind?</line>
+		<line head='1' character='Head'>Well, there's something about the atmosphere of the school I think we still have to get right.</line>
+		<line head='2' character='Mrs Lloyd'>I've always just taught my classes to be polite to each other. I think that's the key.</line>
+		<line head='1' character='Head'>Well, that's part of it. But it seems to me when children fall out there's a kind of climate we have to set. We have to teach them it's not all right to set other children against someone they've fallen out with, or to call each other names just because they aren't best friends any more.</line>
+		<line head='2' character='Mrs Lloyd'>Yes, it's like I say...</line>
+		<line head='1' character='Head'>It's more than politeness though, it's respect and some feeling of what makes the school a comfortable place to be in.</line>
+		<line head='2' character='Mrs Lloyd'>But I'd have thought it was happy school.</line>
+		<line head='1' character='Head'>It is on the whole, but I think there's still what I'd call 'real bullying' going on.</line>
+		<line head='2' character='Mrs Lloyd'>Like the Jones twins being bullied a few months ago because of their weight?</line>
+		<line head='1' character='Head'>I'd like to think we sorted that out, but I've discovered there's been something nasty going on with Sarah Harrison taking money and other things from Rachel, and sometimes Justine too. It all started when they fell out.</line>
+		<line head='2' character='Mrs Lloyd'>I'm surprised at Sarah.</line>
+		<line head='1' character='Head'>It really made me see how bullying is to do with power. Rachel wanted to stay friends with Sarah, who just got into the habit of demanding things from her.</line>
+		<line head='2' character='Mrs Lloyd'>Well, the policeman's going to do that assembly...</line>
+		<line head='1' character='Head'>And he will mention the things that lead to trouble with the police, like what Sarah's been doing. But I'm more interested in the children learning the difference between not being friends with someone and not excluding them.</line>
+	</dialog>
+	<furtherInfo>info_primary_heads_office</furtherInfo>
+</dialogXML>

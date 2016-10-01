@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<dialogXML>
+	<title>Gross graffiti - the story continues</title>
+	<characters>
+		<char>Thomas Hannah</char>
+		<char>John</char>
+	</characters>
+	<dialog>
+		<line head='1' character='Thomas Hannah'>Hi John. I need to speak to you about the windows in the hall.</line>
+		<line head='2' character='John'>Ok, but there's something else I've been meaning to ask you about.</line>
+		<line head='1' character='Thomas'>All right. You first.</line>
+		<line head='2' character='John'>There's been an increase in graffiti. Not just the usual stuff, it all seems to be aimed at one kid. They call him 'waxy' in the graffiti.</line>
+		<line head='1' character='Thomas'>Waxy? I've no idea who that is. It's a boy then?</line>
+		<line head='2' character='John'>Yeah. There's sex stuff that makes it obvious, and some of it's in the boys' toilets; though you can't tell from what they write what they've got against him.</line>
+		<line head='1' character='Thomas'>Where else is it?</line>
+		<line head='2' character='John'>Toilets usually, but one corridor, particular classrooms.</line>
+		<line head='1' character='Thomas'>Let me know which classrooms and we can tell from the time table which classes it's likely to be.</line>
+		<line head='2' character='John'>Then what?</line>
+		<line head='1' character='Thomas'>Well, I'd like to think we have people in most classes who would tell us the truth if we asked them. The first thing is to find out who 'Waxy' is.</line>
+		<line head='2' character='John'>So then you'll talk to him?</line>
+		<line head='1' character='Thomas'>Yes, though the chances are he'll say it's not a problem, since he'll be scared we'll make it worse. Still, we spent a long time on that dilemma when we worked out the anti-bullying policy, so we have to convince him we can help.</line>
+	</dialog>
+	<furtherInfo>info_secondary_caretakers_office</furtherInfo>
+	<nextDialog>secondary_caretakers_office_3</nextDialog>
+</dialogXML>

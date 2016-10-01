@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<dialogXML>
+	<title>What they're thinking...</title>
+	<characters>
+		<char>Harriet Johnson</char>
+		<char>Mr Johnson</char>
+		<char>Katie Johnson</char>
+		<char>Adam Johnson</char>
+		<char>Mrs Johnson</char>
+	</characters>
+	<dialog>
+		<line head='5' character='Gran (thinks)'>I know Katie thinks I'm exaggerating but she's wrong. She shouldn't be so hard. There are some children every year who feel so bad about being bullied that they try to kill themselves, and some actually do it. It's so wrong for that to happen. I'd like Katie to meet their parents, to see if that makes her think.</line>
+		<line head='4' character='Adam (thinks)'>I don't want to admit it but Dad's right. I picked on kids a bit when I was younger; I just thought it was a laugh at the time. It was I suppose, but you don't really think how the other person might feel. Katie seems to be more worried about Dad embarrassing her than the hard time that girl's been having.</line>
+		<line head='3' character='Katie (thinks)'>I dunno why people don't just get over it. I know some kids do get bullied, but then, like, some of my so-called friends talk about me behind my back, saying that new skirt I got was rubbish and all that. You just have to bite back.</line>
+		<line head='2' character='Mr Johnson (thinks)'>I just hope Katie doesn't have to learn the hard way.</line>
+		<line head='1' character='Harriet Johnson (thinks)'>Maybe we should be less hard on Katie. She's all front. Why should she be worried about these things at her age, she should be enjoying herself with her friends. Still, if that girl who was getting bullied... if she was my daughter I'd be round to the bully's house like a shot...</line>
+		</dialog>
+	<furtherInfo>info_houses_johnson</furtherInfo>
+</dialogXML>

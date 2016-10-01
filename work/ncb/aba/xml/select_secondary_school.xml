@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<dialogSelectXML>
+	<title>Secondary School</title>
+	<intro>Click on one of the dialogues below to find out more about bullying issues in the secondary school</intro>
+	<choices>
+		<choice title="Caretaker's Office" dialog="secondary_caretakers_office">Liz,John</choice>
+		<choice title="SEN Teacher's Base Room" dialog="secondary_SEN_teachers_room">Frances Whyte,Martin Heyl</choice>
+	</choices>
+</dialogSelectXML>

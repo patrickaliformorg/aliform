@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<dialogXML>
+	<title>Youth Club Action</title>
+	<characters>
+		<char>Lee</char>
+	</characters>
+	<paraDialog>
+		<line lineType='end'>Hi</line>
+		<line lineType='end'>I'm Lee and the Youth Worker at Hometown Youth Centre.</line>
+		<line lineType='end'>We've been having a bit of a problem with bullying between some of the boys and when Will Whyte came and told me that some of the lads had been sending him abusive emails, I knew we just had to do something about it. He was really scared.</line>
+		<line lineType='end'>He was also worried that his father, who he had also told, was going to make things worse by trying to sort it out himself.</line>
+		<line lineType='end'>I didn't want to draw attention to Will, so I found some excellent packs of activities specially for youth workers that I could use to start a discussion about bullying with the group.</line>
+		<line lineType='end'>I created some fictional scenarios for them to role play including one about text message bullying. The drama activities helped the young people to understand how badly people can be affected bullying and how devastating it feels to be bullied.</line>
+		<line lineType='end'>They then started talking about what they thought should happen to people who bully. I got them thinking about what we could do in the Youth Centre to try and prevent bullying.</line>
+		<line lineType='end'>The older kids came up with the idea of writing an Anti-Bullying Charter to get everyone to sign up to. The younger ones decided to make some anti-bullying posters to put up around the place.</line>
+		<line lineType='end'>One of the kids showed us the bbclic anti-bullying website which is built around a youth centre – they really loved it and are going to send their posters in for the online gallery. They got really excited about making an anti-bullying tune to send in too.</line>
+		<line lineType='end'>I know this is only a start and I'll make sure I keep an eye on Will and keep the situation under review.</line>
+		<line lineType='end'>I'll put bullying on the agenda for the next staff meeting and I think I'll try and get someone in to give us a bit of training about bullying.</line>
+	</paraDialog>
+	<furtherInfo>info_youth_club</furtherInfo>
+</dialogXML>

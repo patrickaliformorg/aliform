@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<dialogXML>
+	<title>Concerned citizen is not giving up</title>
+	<characters>
+		<char>Thomas Hannah</char>
+		<char>Mr Johnson</char>
+	</characters>
+	<paraDialog>
+		<line lineType='norm'>Mr H Johnson</line>
+		<line lineType='norm'>The Corner Shop</line>
+		<line lineType='end'>Blue Street</line>
+		<line lineType='end'>Dear Mr Johnson</line>
+		<line lineType='end'>I am writing to thank you for your concern over some apparent bullying of one of our pupils by another.</line>
+		<line lineType='end'>I know Mrs Lockley, one of the Governors, has explained that we do not have the formal legal power to punish our pupils for bad behaviour out of school. However, we have followed up your concerns and now have clear evidence that the bullying you observed also takes place in school. We are dealing with this internally and have been in touch with both the girls' families. I am not able to discuss all the details with you, but can assure you that unpleasant scenes such as you witnessed in your shop are unlikely to recur, since we have made arrangements after school to prevent it.</line>
+		<line lineType='end'>Again, thank you for contacting us. We do appreciate your involvement and please do not hesitate to contact me again.</line>
+		<line lineType='end'>Yours sincerely</line>
+		<line lineType='norm'>Thomas Hannah</line>
+		<line lineType='end'>Head of Year 10</line>
+	</paraDialog>
+	<furtherInfo>info_shop</furtherInfo>
+</dialogXML>

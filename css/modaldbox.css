@@ -1,0 +1,53 @@
+/* CSS Document */
+
+#mbox{
+	background-color:#fff; 
+	padding:0;
+	border:3px solid #E4DAD8;
+}
+#mboxbar{
+	margin:0;
+	height: 20px;
+	background-color:#CCCCCC;
+}
+#mboxbar a.close span {
+	display: none;
+}
+
+#mboxbar a.close {
+	float: right;
+	margin: 2px 7px 2px 2px;
+	padding: 0;
+	display: block;
+	background: url(../images/modaldialogclose.gif) -34px 0 no-repeat;
+	width: 34px;
+	height: 14px;
+}
+#mboxbar a.close:hover {
+	margin: 2px 7px 2px 2px;
+	background: url(../images/modaldialogclose.gif) 0 0 no-repeat;
+	width: 34px;
+	height: 14px;
+}
+#mdbflash {
+	display: block;
+}
+#mdbFlashCTA {
+	display:none;
+}
+#ol{
+	background-image: url(../images/overlay.png);
+}
+.dialog {
+	display:none
+}
+.mblink {
+	text-decoration: underline;
+	cursor: pointer;
+}
+* html #ol{
+	background-image:none; 
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="../images/overlay.png", sizingMethod="scale");
+}
+
+                  

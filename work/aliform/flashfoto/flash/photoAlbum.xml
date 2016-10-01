@@ -1,0 +1,85 @@
+<PhotoAlbumXML>
+	<artist>FI STEWART - fashion stylist</artist>
+	<externals>
+	</externals>
+	<globalStyle>
+		<transition>tint</transition>
+	</globalStyle>
+	<defaultImage>LETS GO DISCO/3.jpg</defaultImage>
+	<section title='LETS GO DISCO'>
+		<slideNode jpeg="1-2.jpg"></slideNode>
+		<slideNode jpeg="3.jpg"></slideNode>
+		<slideNode jpeg="4-5.jpg"></slideNode>
+	</section>
+	<section title='SQUIRKY COUTURE'>
+		<slideNode jpeg="1-2.jpg"></slideNode>
+		<slideNode jpeg="3-4.jpg"></slideNode>
+	</section>
+	<section title='LOST AND FOUND'>
+		<slideNode jpeg="1-2.jpg"></slideNode>
+		<slideNode jpeg="3-4.jpg"></slideNode>
+	</section>
+	<section title='BLACK MAGIC'>
+		<slideNode jpeg="1-2.jpg"></slideNode>
+		<slideNode jpeg="3-4.jpg"></slideNode>
+	</section>
+	<section title='ELEGANT SLUMMING'>
+		<slideNode jpeg="1.jpg"></slideNode>
+		<slideNode jpeg="2-3.jpg"></slideNode>
+		<slideNode jpeg="4.jpg"></slideNode>
+		<slideNode jpeg="5-6.jpg"></slideNode>
+	</section>
+	<section title='DAMARIS'>
+		<slideNode jpeg="1.jpg"></slideNode>
+		<slideNode jpeg="2-3.jpg"></slideNode>
+		<slideNode jpeg="4-5.jpg"></slideNode>
+	</section>
+	<section title='PIN-UP'>
+		<slideNode jpeg="1.jpg"></slideNode>
+		<slideNode jpeg="2.jpg"></slideNode>
+		<slideNode jpeg="3.jpg"></slideNode>
+	</section>
+	<section title='VANDAL'>
+		<slideNode jpeg="1-2.jpg"></slideNode>
+		<slideNode jpeg="3-4.jpg"></slideNode>
+		<slideNode jpeg="5-6.jpg"></slideNode>
+	</section>
+	<section title='AFTER EIGHT'>
+		<slideNode jpeg="1.jpg"></slideNode>
+		<slideNode jpeg="2-3.jpg"></slideNode>
+	</section>
+	<section title='MONIKA'>
+		<slideNode jpeg="1-2.jpg"></slideNode>
+	</section>
+	<section title='SHES SO KOOKY'>
+		<slideNode jpeg="1-2.jpg"></slideNode>
+		<slideNode jpeg="3.jpg"></slideNode>
+		<slideNode jpeg="blue-top.jpg"></slideNode>
+	</section>
+	<section title='TWILIGHT'>
+		<slideNode jpeg="1-2.jpg"></slideNode>
+		<slideNode jpeg="3-4.jpg"></slideNode>
+	</section>
+	<section title='CAT DAL'>
+		<slideNode jpeg="LICK-IT.jpg"></slideNode>
+	</section>
+	<section title='POP'>
+		<slideNode jpeg="1-2.jpg"></slideNode>
+	</section>
+	<section title='WORK IT'>
+		<slideNode jpeg="1-2.jpg"></slideNode>
+		<slideNode jpeg="3-4.jpg"></slideNode>
+		<slideNode jpeg="5-6.jpg"></slideNode>
+		<slideNode jpeg="7-8.jpg"></slideNode>
+		<slideNode jpeg="9-10.jpg"></slideNode>
+		<slideNode jpeg="11-12.jpg"></slideNode>
+		<slideNode jpeg="13-14.jpg"></slideNode>
+		<slideNode jpeg="15-16.jpg"></slideNode>
+		<slideNode jpeg="17-18.jpg"></slideNode>
+		<slideNode jpeg="19-20.jpg"></slideNode>
+		<slideNode jpeg="21-22.jpg"></slideNode>
+		<slideNode jpeg="23-24.jpg"></slideNode>
+	</section>
+</PhotoAlbumXML>
+
+

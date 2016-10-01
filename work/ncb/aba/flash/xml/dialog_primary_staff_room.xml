@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<dialogXML>
+	<title>Knowing what's right</title>
+	<characters>
+		<char>Keith Hastings</char>
+		<char>Niloufar Begum</char>
+		<char>Mrs Lloyd</char>
+	</characters>
+	<dialog>
+		<line head='1' character='Keith Hastings'>They don't know what it means, but I heard year 5 pupils insulting each other with the word 'gay'.</line>
+		<line head='2' character='Niloufar Begum'>It's a sad thing that children have always been nasty to each other, but I think they can learn not to be.</line>
+		<line head='1' character='Keith Hastings'>There's all this teasing. Weight, hair colour, 'gay'. It's as if it's always there beneath the surface if we aren't watchful.</line>
+		<line head='2' character='Niloufar Begum'>I think it is, but personally I don't think children are all little monsters who need civilising. I prefer to think that most of them are good and need the right climate to influence the others.</line>
+		<line head='3' character='Mrs Lloyd'>I used to be that idealistic too.</line>
+		<line head='1' character='Keith Hastings'>Don't try to fool me with your cynicism, I know better.</line>
+		<line head='3' character='Mrs Lloyd'>The teasing is better than it was, but I agree there's too much of it.</line>
+		<line head='2' character='Niloufar Begum'>also happens too often that you see someone being shunned from a group. It doesn't always happen for long, but it happens.</line>
+		<line head='3' character='Mrs Lloyd'>But that's not really bullying is it? Surely that's just friendships groups changing.</line>
+		<line head='2' character='Niloufar Begum'>One shades into the other. I see a lot of it in the playground remember, the signals of who isn't welcome, who gets invited to play, that kind of thing.</line>
+		<line head='1' character='Keith Hastings'>Depressing isn't it?</line>
+		<line head='2' character='Niloufar Begum'>One thing we can do is make a really positive thing about standing up against bullying. I've been checking up on the Diana Memorial Anti-Bullying Award.</line>
+		<line head='1' character='Keith Hastings'>What's that then?</line>
+		<line head='2' character='Niloufar Begum'>They've just set up this special Anti-Bullying Award, and it's open to anyone up to 18. We can nominate up to 6 children, or even a group of up to 30, but I don't think that's us, somehow.</line>
+		<line head='3' character='Mrs Lloyd'>So we make an award in, what, a year's time?</line>
+		<line head='2' character='Niloufar Begum'>Whenever we like. I've got a candidate already, actually, Justine Massey.</line>
+		<line head='1' character='Keith Hastings'>What's she done then?</line>
+		<line head='2' character='Niloufar Begum'>The good thing is she hasn't told anyone about this herself, but I know her mother (she's a teacher at the comprehensive) and she's just been a fantastic little sister to her big brother. He's been having a bad time with some bullies at his school and his youth club. And there's more: the Jones twins have told me she and Nadine have been going home with little Steve on the bus because some nasty girl from the big school has been making his life a misery, teasing him about his appearance. They've really been sticking up for him, especially Justine.</line>
+		<line head='1' character='Keith Hastings'>What a little star. Let's go for it. What do we have to do?</line>
+	</dialog>
+	<furtherInfo>info_primary_staff_room</furtherInfo>
+</dialogXML>

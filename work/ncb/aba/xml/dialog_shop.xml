@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<dialogXML>
+	<title>Concerned citizen intervenes</title>
+	<characters>
+		<char>Mr Johnson</char>
+		<char>Joanne</char>
+		<char>Emma Green</char>
+	</characters>
+	<dialog>
+		<line head='1' character='Shopkeeper (Mr Johnson)'>I've told you two before! Don't pick up all those magazines unless you're going to buy one; this is a shop not a library. Now girls, what can I get you?</line>
+		<line head='2' character='Joanne'>Go on Emma, what was it you wanted?</line>
+		<line head='3' character='Emma'>Er, 20 of those in the silver packet please...</line>
+		<line head='1' character='Mr Johnson'>Cigarettes? So how old are you?</line>
+		<line head='2' character='Joanne'>16 of course, she wouldn't be asking otherwise would she?</line>
+		<line head='1' character='Mr Johnson'>Don't get clever miss. It might surprise you to know under age people do ask for ciggies sometimes.</line>
+		<line head='2' character='Joanne'>Well we're in year 11, so it's ok.</line>
+		<line head='3' character='Emma'>But it doesn't matter, honestly.</line>
+		<line head='2' character='Joanne'>What do you mean it doesn't matter you stupid cow? You promised didn't you?</line>
+		<line head='1' character='Mr Johnson'>Without proof of age I'm not selling you cigarettes, sorry girls.</line>
+		<line head='2' character='Joanne'>All right, I'll have some chocolate instead. Get me two of those bars and three packets of crisps Emma. Doesn't matter what flavour.</line>
+		<line head='3' character='Emma'>Um, can I have these please, and three packets of crisps?</line>
+		<line head='1' character='Mr Johnson'>Are you all right love? Why are you buying things for her?</line>
+		<line head='2' character='Joanne'>Cos she's my mate, aren't you Emma? What's it got to do with you?</line>
+		<line head='1' character='Mr Johnson'>Here you are then, and your change.</line>
+		<line head='2' character='Joanne (at other end of shop)'>How much you got left then? £2? Good, I'll have that. You didn't think you were going to keep the change just because he wouldn't let me have the fags did you?</line>
+		<line head='3' character='Emma'>No Joanne. Here you are. I haven't got any more on me today.</line>
+		<line head='2' character='Joanne'>God Emma, you're so pathetic. I'll see you tomorrow. I'll be needing more chocolate. By the way, you get sweaty pits when you're scared.</line>
+	</dialog>
+	<furtherInfo>info_shop</furtherInfo>
+	<nextDialog>shop_2</nextDialog>
+</dialogXML>

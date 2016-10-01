@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<dialogXML>
+	<title>Dad wants to know more</title>
+	<characters>
+		<char>Tony Whyte</char>
+		<char>Will Whyte</char>
+	</characters>
+	<dialog>
+		<line head='1' character='Dad'>Hey Will. Can I ask you something?</line>
+		<line head='2' character='Will'>'Spose</line>
+		<line head='1' character='Dad'>You look as miserable as anything these days. Even Justine's noticed. What's up?</line>
+		<line head='2' character='Will'>Nothing.</line>
+		<line head='1' character='Dad'>Yeah but there is something, isn't there?</line>
+		<line head='2' character='Will'>No.</line>
+		<line head='1' character='Dad'>Yes there is. I know you try to hide it.</line>
+		<line head='2' character='Will'>Honestly Dad, there's nothing, I'm ok. Everything's ok.</line>
+		<line head='1' character='Dad'>So what are you doing this weekend?</line>
+		<line head='2' character='Will'>Dunno, why?</line>
+		<line head='1' character='Dad'>Just wondering if you were going to see anyone. Haven't seen any of your mates around here lately.</line>
+		<line head='2' character='Will'>Yeah, well. No, I don't expect I'll be seeing them this weekend either.</line>
+		<line head='1' character='Dad'>Argument or something?</line>
+		<line head='2' character='Will'>No.</line>
+		<line head='1' character='Dad'>So who do you walk to school with these days?</line>
+		<line head='2' character='Will'>Please Dad, honestly there's nothing wrong. Maybe I just don't like that crowd as much as I did.</line>
+		<line head='1' character='Dad'>Maybe they don't like you...</line>
+		<line head='2' character='Will'>Oh great, take their side. It's all my fault is it?</line>
+		<line head='1' character='Dad'>What's all your fault?</line>
+		<line head='2' character='Will'>Nothing.</line>
+		<line head='1' character='Dad'>Is being an f**ing n***** your fault?</line>
+		<line head='2' character='Will'>That's really out of order reading my emails.</line>
+		<line head='1' character='Dad'>I didn't read it Will. Justine knows your password and was putting something on the computer to try and make you laugh. She saw the title of the email.</line>
+		<line head='2' character='Will'>It's none of her business.</line>
+		<line head='1' character='Dad'>Will, yes it is. She thinks you look really unhappy, that's her business cos she's your sister. What would you do if you saw emails like that sent to her?</line>
+	</dialog>
+	<furtherInfo>info_houses_whyte</furtherInfo>
+	<nextDialog>houses_whyte_3</nextDialog>
+</dialogXML>

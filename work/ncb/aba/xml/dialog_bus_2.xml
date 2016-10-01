@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<dialogXML>
+	<title>Still on the bus, still a bit of fun?</title>
+	<characters>
+		<char>Nadine Massey</char>
+		<char>Justine Whyte</char>
+		<char>Steve</char>
+	</characters>
+	<dialog>
+		<line head='2' character='Justine'>You should stand up to her Steve.</line>
+		<line head='3' character='Steve'>What for? If she sees that I mind she'll do it more.</line>
+		<line head='2' character='Justine'>No, if she sees you mind and you're not going to take it she'll give it up.</line>
+		<line head='3' character='Steve'>People have always called me names cos of my hair and that. You just get used to it.</line>
+		<line head='2' character='Justine'>We could say the same, but we don't put up with it, do we Dina?</line>
+		<line head='3' character='Steve'>Yeah but you can say they're being racist and they'll stop, won't they.</line>
+		<line head='1' character='Nadine'>Yeah, like those politics people who want us out of the country, like they'll stop.</line>
+		<line head='2' character='Justine'>They do stop. If you really show you don't care they keep trying and then they give it up.</line>
+		<line head='1' character='Nadine'>Her Dad's got red hair. I think it's cool.</line>
+		<line head='3' character='Steve'>So's mine, duh, that's where I got it. People don't call him names, it's only kids do it to each other.</line>
+		<line head='2' character='Justine'>But it's not okay Steve. It's really obvious you don't like it. You should tell her not to call you things.</line>
+		<line head='3' character='Steve'>Get real. She'd just do it more.</line>
+		<line head='2' character='Justine'>Well you could, you know, report it.</line>
+		<line head='3' character='Steve'>I don't think so. What would happen then? They can't do anything about what happens on a bus can they?</line>
+		<line head='2' character='Justine'>Well I dunno, it just doesn't seem right that you have to take all that mouthy rubbish from her. If she lives in the same street, couldn't your Mum or Dad go and see hers?</line>
+		<line head='3' character='Steve'>It just seems a bit wimpy though doesn't it? It's not like I'm five years old, I should be able to handle a bit of name-calling.</line>
+	</dialog>
+	<furtherInfo>info_bus</furtherInfo>
+</dialogXML>

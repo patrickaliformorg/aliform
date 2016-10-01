@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<dialogXML>
+	<title>Faking it</title>
+	<characters>
+		<char>Frances Whyte</char>
+		<char>Martin Heyl</char>
+	</characters>
+	<dialog>
+		<line head='1' character='Frances Whyte'>John's a funny boy. It's like he knows he's dyslexic but he pretends he's not. Have you noticed that?</line>
+		<line head='2' character='Martin Heyl'>I think so, I'm not sure. What do you mean?</line>
+		<line head='1' character='Frances Whyte'>Well, he plays up at particular moments in class. There are times when ask him something and he becomes the class fool, and they all laugh.</line>
+		<line head='2' character='Martin Heyl'>And if he didn't...?</line>
+		<line head='1' character='Frances Whyte'>If he didn't his dyslexia might show up. He might get a word wrong or be confused about the activity. I know perfectly well that's what's going on sometimes, but he manages to hide it from the class.</line>
+		<line head='2' character='Martin Heyl'>He was working in a small group the other day in my class and the others chose him to keep notes. His writing was completely illegible, much worse than usual. I commented on it but he made a joke out it somehow, so the others laughed.</line>
+		<line head='1' character='Frances Whyte'>So could he read the notes afterwards when they needed him to?</line>
+		<line head='2' character='Martin Heyl'>Oh yes, it was really clear actually. But at one level all he's doing is hiding his dyslexia surely? That's not surprising. Whatever we say about it, kids are still ashamed sometimes and afraid people will think they are stupid.</line>
+		<line head='1' character='Frances Whyte'>Because he's hiding it he's not using the skills and tactics we try to teach him. He's using his old ways of masking it so others won't know, so he's not learning the way he could.</line>
+		<line head='2' character='Martin Heyl'>Yes, maybe, but why?</line>
+		<line head='1' character='Frances Whyte'>Because it's not safe, is it? He doesn't feel safe enough to let the others know his difficulties in case he gets bullied.</line>
+		<line head='2' character='Martin Heyl'>But I don't think people get bullied here because of that! We've got a really clear special needs policy...</line>
+		<line head='1' character='Frances Whyte'>Our school thinks it's okay on bullying but it's not.</line>
+		<line head='2' character='Martin Heyl'>I don't know...</line>
+		<line head='1' character='Frances Whyte'>No it's true. Look, our policy's really good and clear on responses and support, and it says what to do if there's some kind of incident, but I'm not sure we make some kids feel safe enough to be who they are. So they hide it, so there isn't any incident, so things look ok. But they're not, because boys like John are being the class clown rather than let anyone know he's confused.</line>
+		<line head='2' character='Martin Heyl'>And writing like a drunken spider so his group doesn't know he can't spell... Okay, so if you're right, what do we do?</line>
+		<line head='1' character='Frances Whyte'>It might be a start if the teachers who are dyslexic owned up to it.</line>
+		<line head='2' character='Martin Heyl'>Ah. Owned up. So it's something to confess to. The kids would have a field day.</line>
+		<line head='1' character='Frances Whyte'>Well doesn't that just say it all? If dyslexic teachers are afraid of what kids would think of them, how scared would you be if you were twelve?</line>
+		<line head='2' character='Martin Heyl'>Mmmm. I don't know. I'm not sure teachers have to reveal themselves warts and all.</line>
+		<line head='1' character='Frances Whyte'>Until kids know it's safe to say you've got this problem or that problem, they'll be afraid it will get them bad attention. It's not just the kids who'll have a field day actually, some staff would too. There's a culture of 'you have to be perfect' which holes our so-called inclusion policy below the waterline.</line>
+	</dialog>
+	<furtherInfo>info_secondary_SEN_teachers_room</furtherInfo>
+</dialogXML>

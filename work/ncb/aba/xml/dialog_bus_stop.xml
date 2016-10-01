@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<dialogXML>
+	<title>Chatting at the bus stop</title>
+	<characters>
+		<char>Wong Chi Keung</char>
+		<char>Emma Green</char>
+	</characters>
+	<dialog>
+		<line head='1' character='Wong Chi Keung'>Look at this story in the paper Emma! I just don't get it.</line>
+		<line head='2' character='Emma'>You don't get it? You don't think bullying could lead to suicide?</line>
+		<line head='1' character='Keung'>I just don't see how anyone can get in such a state about being bullied. I mean, to want to go that far....</line>
+		<line head='2' character='Emma'>Sometimes I felt so bad about being bullied I just wanted to die.</line>
+		<line head='1' character='Keung'>My God Emma. What? I.... I dunno what to say? When? I never knew things were that bad..... </line>
+		<line head='2' character='Emma'>Yeah well, It's not the kind of thing you go around shouting about is it?</line>
+		<line head='1' character='Keung'>Yeah, but I mean, well... when?</line>
+		<line head='2' character='Emma'>Not long ago at all actually. Joanne's been making my life sh** for months. She's clever at it, so not many people ever saw what she was doing.</line>
+		<line head='1' character='Keung'>Well I knew she was picking on you, I s'pose everyone did, but she picks on loads of people.</line>
+		<line head='2' character='Emma'>Oh right, and they don't get to feel suicidal so it's only me who's the total wimp?</line>
+		<line head='1' character='Keung'>No I'm not saying that, I just didn't know. I mean let's face it, killing yourself is a bit extreme.</line>
+		<line head='2' character='Emma'>Well I didn't did I, stupid! I wish I never told you now. All I wanted to say was that I did feel really crap and completely alone, so it's not that crazy to want to get out of the situation.</line>
+		<line head='1' character='Keung'>Yeah but to want to kill yourself!</line>
+		<line head='2' character='Emma'>Oh forget it. Maybe you just can't understand if you've never felt like there was nowhere else to go. And I know what you're thinking, I was 'just' attention seeking well....</line>
+		<line head='1' character='Keung'>No, Emma, honest. I mean even if it was to seek attention people don't 'just' do it for no reason. It must have been really lonely for you. It must have been horrible.</line>
+		<line head='2' character='Emma'>It was. And really, when I did start to think about hurting myself it was like a cry for help, but then after a while it was just that I wanted it all over and done with.</line>
+		<line head='1' character='Keung'>That's terrible. But what now, I mean what happened?</line>
+		<line head='2' character='Emma'>I didn't do it obviously! Sorry, I didn't mean to snap at you. In fact it's quite nice to talk to someone about it really. I wouldn't tell anyone before. What happened was someone saw Joanne and me and she was, well, she was making me buy her stuff in the shop, and anyway someone saw and I suppose they told the school and Mr Hannah got involved. I wouldn't say anything at first. I just felt so embarrassed and so worried that it would make things worse, y'know? But I did in the end. I tell you what, I wouldn't keep quiet again. I would tell straight away. All the things I was afraid of just seemed to get worse in my head cos I never told anyone. I thought no one could help or understand but that was rubbish. I hope it never happens again, but if it did I would just tell.</line>
+		<line head='1' character='Keung'>I suppose Joanne wanted you to keep quiet, she was probably just as afraid of you telling someone as you were.</line>
+		<line head='2' character='Emma'>Come on we've got maths now.</line>
+		<line head='1' character='Keung'>(thinking to himself) I can't go back and do something different. I should have stood up for her at the time and now it's too late, how ever many times I say sorry.</line>
+	</dialog>
+	<furtherInfo>info_bus_stop</furtherInfo>
+</dialogXML>

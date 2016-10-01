@@ -1,0 +1,90 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+<title>Flex Flash .NET Developers | Aliform Limited</title>
+
+<meta name="description" content="Flex Flash .NET CSS ASP Developers London Rich Internet Applications Ajax Silverlight Standards Compliant Web Applications Web Services Websites Web Sites CSS HTML Adobe Contribute Content Management Systems CMS Umbraco DotNetNuke Adobe Flex Developers Flash Developers ASP.NET Developers Eyeblaster Online Marketing" />
+<meta name="keywords" content="Flex Developers London Rich Internet Application World Wide Wall Annabel Karmel website National Children's Bureau NCB Childhood Bereavement Network CBN website Life Routes website Museum of Illustration Flash gallery Standards Compliant Web Applications Web Services Websites Web Sites CSS HTML Adobe Contribute Content Management Systems CMS Umbraco DotNetNuke" />
+<meta http-equiv="keywords" name="keywords" content="Flex rich internet application developer London Flash porfolio Flash interactive map Flex Charts online marketing ASP.NET web services MSSQL SQL database developer Flash games Content management systems Flash christmas card" />
+<meta name="author" content="Aliform Limited London Flex Flash .NET developers Rich Internet Application developers Standards compliant CSS HTML website developers Web services Web applications SQL Server database developers" />
+<meta name="robots" content="index,follow" />
+<meta name="revisit-after" content="25 days" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+<style type="text/css" media="screen">
+@import url(../css/default.css);
+</style>
+<!--[if lt IE 7]><link rel="stylesheet" type="../text/css" href="css/ie6.css" /><![endif]-->
+<link rel="shortcut icon" type="image/x-png" href="../images/favicon.png"></link>
+<script type="text/javascript" src="../js/global.js"> </script>
+<!-- TemplateBeginEditable name="head" --><!-- TemplateEndEditable -->
+<!-- TemplateParam name="pageType_home" type="text" value="" -->
+<!-- TemplateParam name="pageType_about" type="text" value="" -->
+<!-- TemplateParam name="pageType_services" type="text" value="" -->
+<!-- TemplateParam name="pageType_work" type="text" value="" -->
+<!-- TemplateParam name="pageType_contact" type="text" value="" -->
+<!-- TemplateParam name="pageType_privacy" type="text" value="" -->
+</head>
+
+<body>
+
+<div id="wrap">
+
+<div id="header">
+
+<a class="logo" href="/"><img src="../images/logo.gif" width="150" height="58" alt="Aliform Ltd." /></a>
+	
+<div class="nav">
+<ul>
+<li><a class="@@(pageType_home)@@" href="/">HOME</a></li>
+<li><a class="@@(pageType_about)@@" href="/about/">ABOUT</a></li>
+<li><a class="@@(pageType_services)@@" href="/services/">SERVICES</a></li>
+<li><a class="@@(pageType_work)@@" href="/work/">WORK</a></li>
+<li><a class="@@(pageType_contact)@@" href="/contact/">CONTACT</a></li>
+</ul>
+</div> <!-- END NAV -->
+
+</div> <!-- END HEADER -->
+
+<div id="content">
+<div id="primary">
+<!-- TemplateBeginEditable name="primarycontent" --><!-- TemplateEndEditable -->
+</div> <!-- END PRIMARY -->
+
+<div id="secondary">
+<!-- TemplateBeginEditable name="secondarycontent" --><!-- TemplateEndEditable -->
+</div> <!-- END SECONDARY -->
+
+</div> <!-- END CONTENT -->
+
+<div id="footer">
+
+<div class="line"></div>
+
+<ul>
+<li><a class="@@(pageType_home)@@" href="/">Home</a> &nbsp;|&nbsp; </li>
+<li><a class="@@(pageType_about)@@" href="/about/">About</a> &nbsp;|&nbsp; </li>
+<li><a class="@@(pageType_services)@@" href="/services/">Services</a> &nbsp;|&nbsp; </li>
+<li><a class="@@(pageType_work)@@" href="/work/">Work</a> &nbsp;|&nbsp; </li>
+<li><a class="@@(pageType_contact)@@" href="/contact/">Contact</a> &nbsp;|&nbsp; </li>
+<li><a class="@@(pageType_privacy)@@" href="/privacy/">Privacy</a></li>
+</ul>
+
+<div class="copyright">
+<!--<p>Registered in England &amp; Wales No 5239412 &nbsp;&nbsp; &copy; Aliform Ltd 2007</p>-->
+<a class="up" href="#" onclick="backToTop(); return false" title="Back to the Top"><span>Back to the top</span></a>
+</div> <!-- END COPYRIGHT -->
+</div> <!-- END FOOTER -->
+
+</div> <!-- END WRAP -->
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
+<script type="text/javascript">
+	_uacct = "UA-533719-1";
+	urchinTracker();
+</script>
+</body>
+
+</html>

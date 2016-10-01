@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<dialogXML>
+	<title>A couple of days later</title>
+	<characters>
+		<char>Kim Harrison</char>
+		<char>Sarah Harrison</char>
+	</characters>
+	<dialog>
+		<line head='0'>Mum (Kim) is tidying up Sarah's bedroom when she finds what she thinks is Justine's T-Shirt under Sarah's bed. She looks at the label inside the T-Shirt and realises that the T-Shirt belongs to Rachel, who she is supposed to come home with. Mum starts to look around Sarah's room and begins looking in her draws and cupboard. She finds things that she is sure don't belong to Sarah, such as new pens, and even a CD. She can't understand how Sarah could have got these things. She is about to phone Rachel's mum about the T-Shirt, thinking that Sarah probably didn't give it back to Rachel because they're not friends at the moment. Sarah then comes home.</line>
+		<line head='1' character='Mum'>Can you come here a moment, I want to ask you something.</line>
+		<line head='2' character='Sarah'>Hi Mum, what's up. Hey what's all this stuff? Why have you been going through my room?</line>
+		<line head='1' character='Mum'>Is there anything I should find that shouldn't be here?</line>
+		<line head='2' character='Sarah'>How do you mean?</line>
+		<line head='1' character='Mum'>I think you know what I mean. This is the second time I've found someone else's expensive t-shirt in your things. I never bought you all those pens, some of them look quite expensive. Where did you get the money for this CD? I didn't think you even liked that group.</line>
+		<line head='2' character='Sarah'>I just borrowed it.</line>
+		<line head='1' character='Mum'>Who from Sarah?</line>
+		<line head='2' character='Sarah'>Oh it's not a girl you know. Jackie she's called, she's new.</line>
+		<line head='1' character='Mum'>So you're going to give it back soon then, are you?</line>
+		<line head='2' character='Sarah'>Yeah, course.</line>
+		<line head='1' character='Mum'>Okay, what about the t-shirts? First you said it was Justine's but it wasn't was it? It's Rachel's.</line>
+		<line head='2' character='Sarah'>I never said it was Justine's. Maybe you couldn't hear me over the washing machine.</line>
+		<line head='1' character='Mum'>The machine wasn't on Sarah, I was putting things in it, remember? Don't lie to me; you said it was Justine's. You know you did and I know you did.</line>
+		<line head='2' character='Sarah'>I'm not lying, I'm not.</line>
+		<line head='1' character='Mum'>Well I'm not going to have a big investigation about it, but I want the CD, the pens that aren't yours, and the t-shirt to be given back, tomorrow, all right?</line>
+		<line head='2' character='Sarah'>Yes, I will Mum, honest.</line>
+	</dialog>
+	<furtherInfo>info_houses_harrison</furtherInfo>
+	<nextDialog>houses_harrison_3</nextDialog>
+</dialogXML>

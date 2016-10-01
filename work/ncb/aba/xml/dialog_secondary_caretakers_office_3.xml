@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<dialogXML>
+	<title>Gross graffiti - what happened next</title>
+	<characters>
+		<char>John</char>
+	</characters>
+	<paraDialog>
+		<line lineType='end'>Staff worked out from the timetable that the graffiti must come from one or more of four classes.</line>
+		<line lineType='end'>They spoke to each class and asked them to write on an anonymous piece of paper what they knew about the graffiti.</line>
+		<line lineType='end'>Most people told nothing, but what some were really thinking was...</line>
+		<line lineType='norm'>· "Who gives a stuff?"</line>
+		<line lineType='norm'>· "Waxy Wayne should get over it"</line>
+		<line lineType='end'>· "They'll get the Bill in here next, all over a bit of graffiti" </line>
+		<line lineType='end'>Some identified who 'Waxy' was - a boy called Wayne, who a teacher once teased about some test marks saying he 'waxed and waned'.</line>
+		<line lineType='end'>Some of the pupils said he was picked on for no particular reason at first, but the people doing the bullying seemed to enjoy it more as they made Wayne more isolated.</line>
+		<line lineType='end'>The year head met with Wayne and his parents.</line>
+		<line lineType='end'>Wayne said he wanted the school to do nothing in case it made things worse. </line>
+		<line lineType='end'>It was clear that the bullying really had little to do with Wayne but was part of the way the class and year group culture worked. 'It was just a bit of fun'.</line>
+		<line lineType='end'>The school strategy had to broaden their definition and understanding of bullying; their policy and PSHE lessons tended to focus on individual 'bullies' rather than the school climate of in-groups and out-groups.</line>
+		<line lineType='end'>On the face of it calling someone 'Waxy' is no big deal, the point is how it grew to be oppressive through group culture. How Wayne feels about it is not the point: even if he found it 'okay' someone else would not. It's an oppressive and destructive group dynamic.</line>
+		<line lineType='end'>Staff were asked in a staff meeting to look out for any other bullying incidents and to keep an eye on Wayne.</line>
+	</paraDialog>
+	<furtherInfo>info_secondary_caretakers_office</furtherInfo>
+</dialogXML>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<dialogXML>
+	<title>Concerned citizen is not giving up</title>
+	<characters>
+		<char>Mrs Lloyd</char>
+		<char>Mr Johnson</char>
+	</characters>
+	<dialog>
+		<line head='1' character='School receptionist (Mrs Lloyd)'>Good morning.</line>
+		<line head='2' character='Mr Johnson'>Yes, I want to speak to the Head please.</line>
+		<line head='1' character='Receptionist'>She's very tied up in meetings for the next three days I'm afraid. What's it concerning? Perhaps someone else can help?</line>
+		<line head='2' character='Mr Johnson'>Yes. I run the shop on the road just near the school. I've been seeing one particular girl being quite badly bullied and I want to do something about it.</line>
+		<line head='1' character='Receptionist'>I see. So who am I speaking to please?</line>
+		<line head='2' character='Mr Johnson'>My name's Johnson. As I say, I run your local shop (and I also have a daughter in year 8).</line>
+		<line head='1' character='Receptionist'>And you're sure this is a school matter?</line>
+		<line head='2' character='Mr Johnson'>Of course it is. She was on her way home from school, in uniform, and was having money extorted from her by another girl. I've watched it happen twice.</line>
+		<line head='1' character='Receptionist'>But as you say, it was out of school hours....</line>
+		<line head='2' character='Mr Johnson'>I know, but I can't believe there's nothing you can do. As your governor said, if this girl's getting a bad time a couple of minutes outside the gate she must be being bullied inside school too.... I spoke to the governor last week but as far as I can see, nothing's happened.</line>
+		<line head='1' character='Receptionist'>Perhaps she's still dealing with it. These things can take time you know.</line>
+		<line head='2' character='Mr Johnson'>Look, I don't want to be rude, but I've looked all this up. I know by law it's not the school's responsibility, but I've made a note of the times. I have one of their names. Taking money from someone else against their will is a crime and the girl doing it is not a child. Do you want me to go to the police saying that the school has failed to act?</line>
+		<line head='1' character='Receptionist'>We try to work with the police on this kind of thing, Mr Johnson. But do you know what age these girls were?</line>
+		<line head='2' character='Mr Johnson'>They were older than my Katie. Maybe year 11. The one being bullied was called Emma, and I think her surname is Green.</line>
+		<line head='1' character='Receptionist'>There is an Emma Green in year 10 I think. Let me check.... Yes. All right, I think you need to speak to Mr Hannah, he's year 10 head of year. Can you manage tomorrow morning at 9.30?</line>
+	</dialog>
+	<furtherInfo>info_shop</furtherInfo>
+	<nextDialog>shop_4</nextDialog>
+</dialogXML>

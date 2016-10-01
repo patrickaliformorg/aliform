@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<residentsXML>
+	<title>Meet the residents</title>
+	<group>
+		<resident char="June" descript="Bus driver" btn="bus" dialog="bus">Kids used to walk to school, but they reckon it's not really safe these days so I take them! With some of the bullies on my bus they'd be better off walking.</resident>
+		<resident char="Thomas Hannah" descript="Head of year 10 in secondary school" btn="houses" dialog="houses_green">Every school has bullies, even when you think it's under control. It's hard to keep it as a priority when there are so many other government initiatives.</resident>
+		<resident char="Catherine Hopward" descript="Head of primary school" btn="primary_school" dialog="primary_heads_office">It's hard to know how many of the cases I have to deal with are just children falling out and how many are real bullying.</resident>
+		<resident char="Mr Johnson" descript="Shop keeper and Dad of Katie and Adam" btn="shop" dialog="shop">I'm sick of seeing kids upset and the school doing nothing about it.</resident>
+		<resident char="Janice Lockley" descript="School Governor" btn="shop" dialog="shop_2">I don't really have much power but I'm determined to keep making a fuss about bullying in the school so we make things better.</resident>
+		<resident char="Ahmed Rahman" descript="Policeman" btn="primary_school" dialog="primary_assembly">Bullying is not just nasty; some of it is against the law.</resident>
+		<resident char="Liz" descript="Secondary school Caretaker's assistant" btn="secondary_school" dialog="secondary_caretakers_office">It's just life, kids need to learn to deal with it, isn't it? I'd give them a good hiding.</resident>
+		<resident char="Dr Southover" descript="GP" btn="health_centre" dialog="health_centre">I see the results of bullying in my surgery sometimes.</resident>
+		<resident char="Lee" descript="Youth worker" btn="youth_club" dialog="youth_club">The kids will talk to me on the condition that I won't say anything. That's a tough one.</resident>
+		<resident char="John" descript="Secondary school caretaker" btn="secondary_school" dialog="secondary_caretakers_office">I don't know all about this bullying malarkey, but I do know some of these kids are downright horrible to each other.</resident>
+		<resident char="Mrs Lloyd" descript="Primary school teacher" btn="primary_school" dialog="primary_heads_office">I've always just taught my classes to be polite to each other. I think that's the key.</resident>
+		<resident char="Keith Hastings" descript="Primary school teacher" btn="primary_school" dialog="primary_staff_room">They don't know what it means, but I hear 8 year olds insulting each other with the word 'gay'.</resident>
+		<resident char="Frances Whyte" descript="Secondary school teacher and mother of Justine and Will" btn="secondary_school" dialog="secondary_SEN_teachers_room">Our school thinks it's ok on bullying but it's not.</resident>
+		<resident char="Martin Heyl" descript="Secondary school teacher" btn="secondary_school" dialog="secondary_SEN_teachers_room">Bullying's an issue, but it's not the worst thing that happens is it?</resident>
+		<resident char="Niloufar Begum" descript="Playground supervisor" btn="primary_school" dialog="primary_playground">Of course I see and hear things in the playground.</resident>
+		<resident char="Tony Whyte" descript="Dad of Justine and Will" btn="houses" dialog="houses_whyte">It's awful to see your kid suffering and not be able to just put it right.</resident>
+		<resident char="Justine Whyte" descript="Will's Younger sister (aged 9)" btn="bus" dialog="bus">People shouldn't be mean to each other, especially when it's for no reason at all.</resident>
+		<resident char="Will Whyte" descript="Justine's older brother (aged 12)" btn="health_centre" dialog="health_centre">I think bullies are morons.</resident>
+		<resident char="Harriet Johnson" descript="Mum of Katie and Adam" btn="houses" dialog="houses_johnson">I serve in the shop sometimes. Kids are just kids. They get over bullying</resident>
+		<resident char="Mrs Johnson" descript="Grandmother of Katie and Adam" btn="houses" dialog="houses_johnson">You never heard about kids killing themselves over bullying when I was a girl. It's shocking.</resident>
+		<resident char="Adam Johnson" descript="Katie's older brother (aged 17)" btn="houses" dialog="houses_johnson">I picked on kids a bit when I was younger, I just thought it was a laugh at the time.</resident>
+		<resident char="Katie Johnson" descript="Adam's younger sister (aged 14)" btn="bus" dialog="bus">I can't believe my Dad went up to the school to have a go about bullying. He's so embarrassing.</resident>
+		<resident char="Kim Harrison" descript="Sarah's Mother" btn="houses" dialog="houses_harrison">I worry about Sarah being bullied because of me being gay. I know she understands about it but maybe her friends won't?</resident>
+		<resident char="Sarah Harrison" descript="Kim's Daughter (aged 10)" btn="houses" dialog="houses_harrison">I've got lots of friends.</resident>
+		<resident char="Steph Green" descript="Emma's Mother" btn="houses" dialog="houses_green">There's no answer to bullying really is there? I mean, you just have to ignore them and in the end they'll stop.</resident>
+		<resident char="Emma Green" descript="Steph and Jason's daughter (aged 14)" btn="bus_stop" dialog="bus_stop">My mother says to ignore bullies but I just can't.</resident>
+		<resident char="Jason Green" descript="Long distance lorry driver and Emma's Father" btn="houses" dialog="houses_green">I think the only way to stop bullies is to get back at them as hard as they get at you.</resident>
+	</group>
+</residentsXML>

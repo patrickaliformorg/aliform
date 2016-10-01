@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<dialogXML>
+	<title>I keep finding things...</title>
+	<characters>
+		<char>Kim Harrison</char>
+		<char>Sarah Harrison</char>
+	</characters>
+	<dialog>
+		<line head='1' character='Mum'>Hi. Did you get a lift home with Rachel's mum today?</line>
+		<line head='2' character='Sarah'>No. I got the bus.</line>
+		<line head='1' character='Mum'>Sarah I thought I told you yesterday. You're supposed to get a lift with Rachel's mum, I'll have to phone her again and apologize. You couldn't have forgotten again. Anyway, where are you getting the money from to get the bus?</line>
+		<line head='2' character='Sarah'>Mum. Me and Rachel aren't really friends anymore so I don't want to go home with her.</line>
+		<line head='1' character='Mum'>So has she been saying anything to you about, you know.... Why aren't you friends? Are you okay? Do you want to talk about it?</line>
+		<line head='2' character='Sarah'>No. We've both just got new friends now that's all. Don't worry.</line>
+		<line head='1' character='Mum'>Okay. Go on up and do your homework. Tea will be ready in about an hour. And leave your PE kit down here so I can put it in the machine.</line>
+		<line head='0'>[Mum begins to put the PE kit in the washing machine when she finds a T-shirt that she knows isn't Sarah's.]</line>
+		<line head='1' character='Mum'>Sarah, Sarah, come here for a minute.</line>
+		<line head='2' character='Sarah'>Yeah?</line>
+		<line head='1' character='Mum'>Whose T-shirt is this?</line>
+		<line head='2' character='Sarah'>Oh, uhm, well. It's Justine's. I didn't have a T-Shirt for games so she let me borrow hers.</line>
+		<line head='1' character='Mum'>But Sarah yours is here in the bag.</line>
+		<line head='2' character='Sarah'>Yeah I found it after. It must have dropped out of my bag in tutorial.</line>
+		<line head='1' character='Mum'>Okay. Well, I'll wash it then you can give it Justine tomorrow.</line>
+		<line head='2' character='Sarah'>Okay. Thanks Mum.</line>
+	</dialog>
+	<furtherInfo>info_houses_harrison</furtherInfo>
+	<nextDialog>houses_harrison_2</nextDialog>
+</dialogXML>

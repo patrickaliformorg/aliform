@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<dialogXML>
+	<title>Only a bit of fun</title>
+	<characters>
+		<char>Nadine Massey</char>
+		<char>Justine Whyte</char>
+		<char>Steve</char>
+		<char>Katie Johnson</char>
+		<char>June</char>
+	</characters>
+	<dialog>
+		<line head='4' character='Katie'>Hoi, ginger nut. How you doing?</line>
+		<line head='3' character='Steve'>[says nothing]</line>
+		<line head='4' character='Katie'>I'm talking to you, specky four eyes ginger nut freckle head! How come you're so unfriendly?</line>
+		<line head='5' character='June (the Driver)'>Please don't shout like that on my bus. Maybe he doesn't think the things you call him are friendly.</line>
+		<line head='4' character='Katie'>It's only a joke. He lives down my street. Don't you specky four eyes ginger nut freckle head?</line>
+		<line head='1' character='Nadine'>She's so horrible to him. Why doesn't she just leave him alone?</line>
+		<line head='2' character='Justine'>Shush Nadine, she'll hear you.</line>
+		<line head='1' character='Nadine'>I don't care.</line>
+		<line head='4' character='Katie'>Specky frecky, freckyspecky. Freckspeck.</line>
+		<line head='1' character='Nadine'>Leave him alone.</line>
+		<line head='4' character='Katie'>What's it to you, dread head?</line>
+		<line head='2' character='Justine'>People shouldn't be mean to each other, especially when it's for no reason at all.</line>
+		<line head='4' character='Katie'>Don't be such a wuss. I'm not being mean to him, it's just a laugh.</line>
+		<line head='1' character='Justine'>So who's laughing?</line>
+		<line head='4' character='Katie'>Steve is, aren't you frecky wecky?</line>
+		<line head='3' character='Steve'>Yeah I suppose so. It's okay. </line>
+		<line head='4' character='Katie'>See? He's my mate. He doesn't need you sticking your black nose in.</line>
+		<line head='1' character='Nadine'>I'm proud of my black nose and my black skin, so you can call me black any time you like. I don't have a problem with my colour even if you do. What's the colour of my nose got to do with you calling Steve names?</line>
+		<line head='2' character='Justine'>So you think being racist is funny as well do you? I bet you wouldn't say that if Nadine and I were as big as you.</line>
+		<line head='4' character='Katie'>Don't make such a big deal out of it. You'll be reporting me for racist bullying next. Call me names if you want, I don't care.</line>
+		<line head='2' character='Justine'>That's just so clever... NOT. You haven't got freckles, you're not black, you're not fat, you don't wear glasses. What do we call you? Slimmy-whitey-brown hair-nospecs?</line>
+		<line head='4' character='Katie'>Well if you're saying I'm normal and gorgeous, I'm not going to argue.</line>
+	</dialog>
+	<furtherInfo>info_bus</furtherInfo>
+	<nextDialog>bus_2</nextDialog>
+</dialogXML>

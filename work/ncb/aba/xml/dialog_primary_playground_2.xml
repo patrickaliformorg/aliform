@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<dialogXML>
+	<title>Who can you talk to?</title>
+	<characters>
+		<char>Niloufar Begum</char>
+		<char>Steve</char>
+	</characters>
+	<dialog>
+		<line head='1' character='Mrs Begum'>So Steve, trouble on the bus I hear?</line>
+		<line head='2' character='Steve'>Yes Miss. I know Rachel and Luke told you, but there's nothing you can do.</line>
+		<line head='1' character='Mrs Begum'>Well I can listen to what you say about it Steve. Have you told your parents about it?</line>
+		<line head='2' character='Steve'>No.</line>
+		<line head='1' character='Mrs Begum'>Why's that? Won't they understand?</line>
+		<line head='2' character='Steve'>I dunno really. It just seems like something you have to put up with don't you. If they get involved it will just make things worse, and the school can't do anything about what a kid from another school says to me on the bus.</line>
+		<line head='1' character='Mrs Begum'>Perhaps the head could speak to the girl's head, and get it stopped.</line>
+		<line head='2' character='Steve'>They wouldn't bother though would they. I mean, it's only a bit of name-calling... Anyway, it might make it worse.</line>
+		<line head='1' character='Mrs Begum'>But it's making you really miserable, and you try to get different buses Rachel said, and sometimes you walk home, which you're not supposed to...</line>
+		<line head='2' character='Steve'>I just hope she gets fed up with her game and stops.</line>
+		<line head='1' character='Mrs Begum'>So you just think there's nothing anyone can do to stop it. You know who she is don't you?</line>
+		<line head='2' character='Steve'>She lives in my street.</line>
+		<line head='1' character='Mrs Begum'>Can we both think about things we could try? I know you feel a bit helpless but honestly you don't have to put up with it. How long has it been going on by the way?</line>
+		<line head='2' character='Steve'>Since September.</line>
+		<line head='1' character='Mrs Begum'>That's months! Okay, we could contact her school and they might speak to her individually or they might do a general thing about name-calling. We could contact the community policeman, who might tell her what she's doing is against the law. Maybe her parents could be told - you don't know, they might not like what she's doing.</line>
+		<line head='2' character='Steve'>I don't know.</line>
+		<line head='1' character='Mrs Begum'>Just think about it Steve. I'm not going to do anything until we talk again, but you should not have to put up with this bullying.</line>
+	</dialog>
+	<furtherInfo>info_primary_playground</furtherInfo>
+</dialogXML>

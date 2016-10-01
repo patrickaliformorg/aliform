@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<dialogXML>
+	<title>Bullying's bad for your health</title>
+	<characters>
+		<char>Dr Southover</char>
+		<char>Will Whyte</char>
+		<char>Frances Whyte</char>
+	</characters>
+	<dialog>
+		<line head='1' character='Dr Southover'>So is it a racial thing? </line>
+		<line head='2' character='Will'>I dunno really. They just started getting at me a few weeks ago for no reason really. It was when we went into new science sets but I dunno why.</line>
+		<line head='1' character='Dr Southover'>Are there different kids in the groups?</line>
+		<line head='2' character='Will'>Yeah. I 'spose it was them really, there's a group who think they're a really hard crew and they pick on people a bit.</line>
+		<line head='3' character='Frances Whyte (mother)'>A bit! So you haven't got any friends left and you get gross emails?</line>
+		<line head='2' character='Will'>Yeah well, once you're not, like, a hanger on to that crew they say things and get at you.</line>
+		<line head='1' character='Dr Southover'>So they're really hard? Do they get at you physically?</line>
+		<line head='2' character='Will'>No, you just sort of think they might. They would, if they thought they needed to.</line>
+		<line head='1' character='Dr Southover'>And how do you feel?</line>
+		<line head='2' character='Will'>Really down, really tired, like I can't be bothered to get out of bed or do anything.</line>
+		<line head='1' character='Dr Southover'>What sorts of things are you looking forward to?</line>
+		<line head='2' character='Will'>Not much really.</line>
+		<line head='1' character='Dr Southover'>Are you sleeping all right? You said you were tired...</line>
+		<line head='2' character='Will'>Not really. I wake up early and just lie thinking about it all.</line>
+		<line head='1' character='Dr Southover'>Uh Huh. How's your appetite?</line>
+		<line head='3' character='Mother'>Oh he eats less than he used to Doctor, I know he does. He's really off his food some days.</line>
+		<line head='1' character='Dr Southover'>Is that right Will? </line>
+		<line head='2' character='Will'>I s'pose so. I just don't feel hungry.</line>
+		<line head='1' character='Dr Southover'>And there's nothing else worrying you, apart from this bullying?</line>
+		<line head='2' character='Will'>No, really. Everything else would be cool if only it would stop. It all makes me feel so down, like trapped, and it goes round and round in my head.</line>
+		<line head='1' character='Dr Southover'>I'm glad you came to see me Will. There's no doubt this is affecting you in quite a bad way, in fact you might even be what we call depressed, that means more than just sad, it means it's affected your overall mood so you're down a hole it's hard to get out of.</line>
+		<line head='3' character='Mother'>What shall we do then?</line>
+		<line head='2' character='Will'>There's nothing you can do. If you go up to the school they'll really start to get at me. You can't even tell who the emails are from, we can't prove anything.</line>
+		<line head='3' character='Mother'>I'll hit the school around the head with their anti-bullying policy.</line>
+		<line head='2' character='Will'>Yeah and they might make a big fuss, and after a couple of weeks they'll be after me big time.</line>
+		<line head='3' character='Mother'>So you want us to just leave it alone?</line>
+		<line head='2' character='Will'>I could go to another school.....</line>
+		<line head='3' character='Mother'>Then they'll have won!</line>
+		<line head='2' character='Will'>They'll win anyway.</line>
+		<line head='3' character='Mother'>The school has to sort it. How many other people's lives are being made a misery?</line>
+		<line head='2' character='Will'>Look I'm scared, okay? I know you want to help but you don't know what school's like.</line>
+		<line head='3' character='Mother'>'Scuse me, I'm only a teacher.</line>
+		<line head='2' character='Will'>Yeah but Mum, you don't know what happens when teachers aren't around.</line>
+		<line head='3' character='Mother'>Okay, we're going to come to the school, we don't have any option Will. If you need to stay at home a while then we'll have to think about that. If the school doesn't sort it then it's another school.</line>
+		<line head='1' character='Dr Southover'>I think I agree.</line>
+		<line head='2' character='Will'>Yeah?</line>
+		<line head='1' character='Dr Southover'>This has all started to affect your physical and mental well-being Will, but it's not a medical problem. There are some pills I could consider giving you but that makes it seem like the problem is in you and it's not. I see the results of bullying in my surgery sometimes but the problem is in the school and in the people doing the bullying. It's not in you.</line>
+		<line head='2' character='Will'>Can't you say anything to the school?</line>
+		<line head='1' character='Dr Southover'>I don't think it would be the right thing to discuss you in particular Will, but since this isn't the first time I've come across this recently I will write to the school to say this kind of thing may be happening too much.</line>
+		<line head='2' character='Will'>Well it feels better that something's going to be done, but I'm still scared of how it's going to turn out. And what do I do about feeling so down?</line>
+		<line head='1' character='Dr Southover'>Come and see me next week, on your own if you like, and let me know how things are. My guess is that if we change the situation your mood will get better. We need to try that first.</line>
+	</dialog>
+	<furtherInfo>info_health_centre</furtherInfo>
+</dialogXML>

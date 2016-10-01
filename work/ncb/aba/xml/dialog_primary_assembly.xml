@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<dialogXML>
+	<title>Assembly</title>
+	<characters>
+		<char>Ahmed Rahman</char>
+	</characters>
+	<paraDialog>
+		<line lineType='norm'>- Ahmed Rahman:</line>
+		<line lineType='norm'>Good morning.</line>
+		<line lineType='end'>My name is Mr Rahman, and as you can tell I'm a police officer. I'm the community police officer for this area and I've come to do a special assembly for you this morning about bullying.</line>
+		<line lineType='end'>Year six has made a list. They've decided all of these things are bullying, especially if you keep doing them. They aren't the same as just being in a bad mood with someone, or feeling cross with them for a while because you've had an argument.</line>
+		<line lineType='end'>This is the list year six has made</line>
+		<line lineType='norm'>· name-calling</line>
+		<line lineType='norm'>· spreading rumours about someone</line>
+		<line lineType='norm'>· making up stories to get a person into trouble</line>
+		<line lineType='norm'>· taking friends away so someone is left on their own</line>
+		<line lineType='norm'>· telling other people not to be friends with someone</line>
+		<line lineType='norm'>· hitting, kicking, tripping up, or pushing around </line>
+		<line lineType='norm'>· being rude about a person's culture, religion or colour</line>
+		<line lineType='norm'>· saying nasty things about a person's looks or weight</line>
+		<line lineType='norm'>· talking in a bad way about a person's disability or illness</line>
+		<line lineType='norm'>· not letting someone be your partner in class</line>
+		<line lineType='norm'>· leaving someone out when you're choosing a games team</line>
+		<line lineType='norm'>· taking away a person's things, or demanding money from them</line>
+		<line lineType='norm'>· damaging someone's things</line>
+		<line lineType='norm'>· hiding things like a person's books or bag</line>
+		<line lineType='norm'>· making jokes about someone when you know it upsets them</line>
+		<line lineType='norm'>· sending nasty text messages, silent phone calls, or nasty emails</line>
+		<line lineType='end'>· making threats that you're going to do something they won't like</line>
+		<line lineType='end'>All of these things are unpleasant things to happen to you, but I'm here to say two things about them.</line>
+		<line lineType='norm'>The first thing is that part of the job of a community police officer is to make sure things don't get nasty outside of school.</line>
+		<line lineType='end'>So, if anything like bullying is happening in your street, or on the way home, either from this school or children from another one, then I should be able to help.</line>
+		<line lineType='end'>The second thing is that these things on your posters are not just nasty, some of them are against the law as well.</line>
+	</paraDialog>
+	<furtherInfo>info_primary_assembly</furtherInfo>
+</dialogXML>

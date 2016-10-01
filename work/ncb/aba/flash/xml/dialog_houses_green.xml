@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<dialogXML>
+	<title>If you ignore them will they stop?</title>
+	<characters>
+		<char>Steph Green</char>
+		<char>Jason Green</char>
+		<char>Thomas Hannah</char>
+	</characters>
+	<dialog>
+		<line head='1' character='Mrs Green'>So what's been happening then? You said on the phone that Emma's having some trouble at school. I know she's not been herself lately, but you know how teenagers are.</line>
+		<line head='3' character='Mr Hannah'>She's been really, really unhappy, she's been bullied over quite a long period by one of the other girls.</line>
+		<line head='1' character='Mrs Green'>Well, I know she's been a bit low at times, but surely...</line>
+		<line head='3' character='Mr Hannah'>It's been really serious actually. I'm sorry to have to tell you that her time at school recently has been very miserable. We're doing what we can to make things better, but of course we wanted to tell you about it.</line>
+		<line head='2' character='Mr Green'>You say she's been having a bad time. Why didn't she tell us?</line>
+		<line head='3' character='Mr Hannah'>It's quite common for young people being bullied not to tell anyone. They are usually scared that parents or teachers can't really do anything, and that the people bullying them will know they've told, so things will get worse for them.</line>
+		<line head='2' character='Mr Green'>I'm still surprised she didn't say anything to you Steph.</line>
+		<line head='3' character='Mr Hannah'>We only found out because a local shopkeeper saw Emma having money taken off her by another girl on several occasions. He was concerned about how frightened she looked so he came to the school.</line>
+		<line head='1' character='Mrs Green'>There's no answer to bullying really is there? You just have to ignore them and in the end they'll stop.</line>
+		<line head='3' character='Mr Hannah'>Well Emma tried to ignore the girl bullying her but she became more and more of a target. She was forcing Emma to give her money, amongst other things, so it was hard to ignore and the other girl had a motive to keep doing it.</line>
+		<line head='1' character='Mrs Green'>But if Emma didn't take things to heart so much...</line>
+		<line head='3' character='Mr Hannah'>It must be hard not to take things to heart, as you put it, when this kind of thing has been going on for weeks. Emma has felt helpless and vulnerable and the bullying just didn't go away.</line>
+		<line head='1' character='Mrs Green'>So what are you saying? If she can't ignore it and the school hasn't been able to stop it happening, what's she supposed to do?</line>
+		<line head='2' character='Mr Green'>I think the only way to stop bullies is to get back at them as hard as they get at you.</line>
+		<line head='3' character='Mr Hannah'>I'm afraid I can't agree with that. If everyone tried to hit back there would be a lot of trouble in school.</line>
+		<line head='2' character='Mr Green'>No there wouldn't. If bullies knew they'd get hit back they wouldn't do it.</line>
+		<line head='3' character='Mr Hannah'>But not everyone can hit back. People who bully often pick on people who are smaller, they may be less confident, they may not be the kind of person who wants to fight. Anyway, bullying isn't just about hitting.</line>
+		<line head='1' character='Mrs Green'>So what are you saying then, what can we do? What can you do up at the school. I mean, you're supposed to be looking after our kids...</line>
+		<line head='3' character='Mr Hannah'>The first thing is to give Emma all the support we can. I have to tell you it got so bad she was thinking she didn't want to go on living.</line>
+		<line head='1' character='Mrs Green'>No! what, my Emma? When was this?</line>
+		<line head='2' character='Mr Green'>This is ridiculous, who told you that? You're making Emma out to be a right little weakling.</line>
+		<line head='3' character='Mr Hannah'>Emma told me Mr Green. She told no-one for a while because as I said, she was too scared. Once she knew we knew it all just tumbled out. I know it must be a shock to hear this.</line>
+		<line head='2' character='Mr Green'>So who is it that's made Emma think this way? I've got a few things I'd like to say to her, and her family come to that.</line>
+		<line head='3' character='Mr Hannah'>I could tell you Mr Green, and I suppose Emma will if you ask her, but I'd like to ask that we settle this a different way. In my experience it doesn't help if this becomes a feud between two families.</line>
+		<line head='2' character='Mr Green'>Hold on a minute. You want us to sit here and listen to what you have to say about looking after our daughter when she has been going to your school 5 days a week, in a right state by the sounds of it, and you didn't even know! What the hell is wrong with you lot up there. And Steph how could you not notice? I mean to say...</line>
+		<line head='1' character='Mrs Green'>You hold on a minute. Where the hell were you when...</line>
+		<line head='3' character='Mr Hannah'>Please Mr and Mrs Green, please. It is in the nature of something like this that Emma wasn't going to tell anyone, so of course no one knew. Now we know we can act.</line>
+		<line head='1' character='Mrs Green'>What can we do to help Emma?</line>
+		<line head='3' character='Mr Hannah'>Emma wanted me to come and tell you before she got home. We've put some things in place at school. The police have been told, we will meet with the girl's mother tomorrow, the girl herself has been suspended. Some of the bullying did take place after school so we will need to arrange things so that can't happen any more.</line>
+		<line head='1' character='Mrs Green'>So when she gets home Jason, we need to let her know that all this isn't her fault okay?</line>
+	</dialog>
+	<furtherInfo>info_houses_green</furtherInfo>
+</dialogXML>
